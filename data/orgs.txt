@@ -1,0 +1,746 @@
+"University Paris-Est, LIGM
+Ecole des Ponts ParisTech"
+"Université de Montréal, Technion - Israel Institute of Technology, Columbia University"
+Tsinghua University
+Seoul National University
+"Institute of Software, Chinese Academy of Sciences; University of Chinese Academy of Sciences; Momenta; University of Macau; LIAMA-NLPR; Visual Geometry Group, University of Oxford"
+"University of Oxford, Baidu Institute of Deep Learning"
+n/a
+"{""University of Washington"",""Allen Institute for AI""}"
+"MIT Computer Science and Artificial Intelligence Laboratory, University of Illinois at Urbana–Champaign"
+Huawei Technologies
+Technische Universität Darmstadt
+"Allen Institute for Artificial Intelligence; Paul G. Allen School of Computer Science & Engineering, University of Washington"
+"NLP Lab, Northeastern University, Shenyang, China"
+"Berkeley AI Research (BAIR) Laboratory, UC Berkeley"
+"{""Stanford University"",""UC Berkeley"",""Toyota Research Institute"",""Google Deepmind"",""Physical Intelligence"",MIT}"
+Zenseact
+University of Washington
+Microsoft and NVIDIA
+"{""Studio Ousia"",""RIKEN AIP"",""University of Washington"",""Nara Institute of Science and Technology"",""National Institute of Informatics""}"
+"Columbia University, University of Illinois, Urbana-Champaign, National University of Singapore, Boston Dynamics AI Institute, Stanford University"
+Carnegie Mellon University
+"MIT, Université de Montréal, University of Toronto, IIIT Hyderabad, CMU, DEVCOM Army Research Lab, Amazon, Concordia University"
+"UC Berkeley, Stanford, Carnegie Mellon University, Google Deepmind"
+Peking University; Beijing Academy of Artificial Intelligence (BAAI); CUHK
+"Univ. of California, Los Angeles; Google Inc.; CentraleSupélec and INRIA"
+"Shanghai Jiao Tong University, UC Berkeley, UNC, Chapel Hill"
+"UCSD, Microsoft Research"
+"National University of Defense Technology, Fudan University, Microsoft Research"
+Sensifai
+"Google Cloud AI, Google Research"
+"University of Hyderabad, India"
+"University of Toronto, Université de Montréal, MIT, DEVCOM ARL, JHU APL, JHU, UMass"
+"Shanghai Jiao Tong University, UC San Diego, University of Hong Kong, AWS AI, Amazon"
+"Courant Institute of Mathematical Sciences, New York University"
+Hugging Face
+AI4Finance-Foundation
+Nanjing University & Shanghai AI Lab & Shenzhen Institute of Advanced Technology
+German Research Center for AI
+Carnegie Mellon University and University of Pittsburgh
+KAIST AI
+"The Chinese University of Hong Kong, State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University, AI^2Robotics, Beijing Academy of Artificial Intelligence (BAAI)"
+"Tsinghua University, UC Berkeley, Shanghai Qi Zhi Institute"
+"Google Brain, Berkeley Artificial Intelligence Research"
+"ByteDance, S-Lab NTU, CUHK, HKUST"
+"{fast.ai,""University of San Francisco"",""Insight Centre, NUI Galway"",""Aylien Ltd.""}"
+"{""Microsoft Maluuba"",""McGill University""}"
+"EquiLibre Technologies, Google DeepMind, Sony AI, Amii, Midjourney, University of Alberta"
+"ByteDance, S-Lab (NTU), CUHK, HKUST"
+The AI Institute
+"{""Clova AI Research, NAVER Corp."",EPFL}"
+UCSD & Microsoft Research
+"Google Research, Toyota Technological Institute at Chicago"
+Korea University & Princeton University
+"Inception, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), and Cerebras Systems"
+"{""Shanghai Qi Zhi"",Stanford,ShanghaiTech,CMU,Tsinghua}"
+"{""UC San Diego"",""Facebook AI Research""}"
+Google Inc
+"{""Université de Montréal"",""Technion - Israel Institute of Technology"",""Columbia University""}"
+"University of California, Los Angeles; Columbia University; Shanghai Frontiers Science Center of Artificial Intelligence and Deep Learning, NYU Shanghai"
+"DAMO Academy, Alibaba Group; Huazhong University of Science and Technology"
+"University Paris-Est, LIGM Ecole des Ponts ParisTech"
+DeepScale & UC Berkeley; Stanford University
+"Google, Inc."
+"Massachusetts Institute of Technology, MIT-IBM Watson AI Lab"
+University of Alberta
+"{""Stanford University"",""Salesforce Research""}"
+"Carnegie Mellon University, Google Brain"
+fast.ai
+"Islamic Azad University, Science and Research branch, Technicolor R&I, Sensifai, Institute for Research in Fundamental Sciences (IPM)"
+"Carnegie Mellon University, Intel Labs, Bosch Center for AI"
+Meta AI Research
+MSRA
+"Shanghai Qi Zhi Institute, Stanford, ShanghaiTech, CMU, Tsinghua"
+National University of Defense and Technology
+"ByteDance Research, Tsinghua University, Shanghai Jiao Tong University, National University of Singapore"
+"MIT CSAIL, MIT BCS, CBMM, MIT-IBM Watson AI Lab, Deepmind, IIIS Tsinghua University"
+"{""Univ. of California, Los Angeles"",""Google Inc."",CentraleSupélec,INRIA}"
+"Proteinea, Inc.; Technical University of Munich (TUM)"
+National University of Defense Technology
+"Apple AI/ML, Columbia University"
+IBM Research
+Duke University and Microsoft
+"Johannes Kepler University Linz, Institute for Advanced Research in Artificial Intelligence (IARAI), University of Oslo"
+Peking University
+"Stanford University, Tsinghua University"
+"Univ. of California, Los Angeles, Google Inc., CentraleSupélec and INRIA"
+"UC Berkeley, New York University, Meta AI, FAIR Team"
+OpenAI
+"University of Alberta, Charles University, Czech Technical University"
+Sony AI
+"Islamic Azad University, Technicolor R&I, Sensifai, Institute for Research in Fundamental Sciences (IPM)"
+"Ludwig Maximilian University of Munich & IWR, Heidelberg University, Germany"
+University of Florida
+University of Neyshabur & Ferdowsi University of Mashhad
+"Tsinghua University, Nanyang Technological University, Carnegie Mellon University"
+University of Wisconsin–Madison & Microsoft Research & Columbia University
+"Continuum Robotics Laboratory, Department of Mathematical and Computational Sciences, University of Toronto"
+Allen Institute for Artificial Intelligence
+"MIT CSAIL, IIIS Tsinghua, MIT-IBM Watson AI Lab, DeepMind"
+Institute of Automation Chinese Academy of Sciences
+"Tsinghua University; University of California, Berkeley"
+University of Oxford
+"AIR, Tsinghua University"
+Zhipu AI
+"Tsinghua University, University of Technology Sydney, University of Texas at San Antonio"
+"Northeastern University, University of Rochester"
+Korea University
+"Tsinghua University, Princeton University, Mila - Québec AI Institute, Université de Montréal, HEC Montréal, CIFAR"
+Facebook AI Research (FAIR)
+"University of Washington, Allen Institute for AI, Facebook AI Research"
+University of Toronto
+"Microsoft Research Asia, Tsinghua University, Microsoft Research"
+Tsinghua University and Zhipu AI
+"Korea University, Princeton University"
+"Noah’s Ark Lab, Huawei Technologies; Distributed and Parallel Software Lab, Huawei Technologies"
+University of Southern California
+"Google Brain, Google Inc."
+Alibaba
+University of Illinois Urbana-Champaign (UIUC)
+"Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences"
+"Huawei Technologies (Noah’s Ark Lab, Distributed and Parallel Software Lab)"
+"{""The University of Texas at Austin"",""Microsoft Azure AI""}"
+"ByteDance, Peking University"
+NVIDIA
+Google AI Brain Team
+"Google, National Tsing Hua University"
+KAIST
+Google Deepmind
+Kyoto University and ATR
+"UC Berkeley, New York University, Meta AI (FAIR Team)"
+"Google AI, Bar Ilan University"
+"University of Wisconsin–Madison, Microsoft Research, Redmond"
+National University of Singapore
+"{""CUHK-SenseTime Joint Lab, The Chinese University of Hong Kong"",""SIAT-SenseTime Joint Lab, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences"",""The Chinese University of Hong Kong, Shenzhen"",""University of Chinese Academy of Sciences"",""Nanyang Technological University""}"
+Shanghai AI Lab
+"Columbia University, University of Illinois, Urbana-Champaign, Boston Dynamics AI Institute"
+"DeepMind, University of Toronto"
+"IDLab, Ghent University; VERSES AI Research Lab; Mila, University of Montreal; ServiceNow Research"
+Hatanpää
+"Proteinea, Inc. and Technical University of Munich (TUM)"
+MetaMind - A Salesforce Company
+"Google AI, Johns Hopkins University, Stanford University"
+"Multimedia Laboratory, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences"
+"Chinese Academy of Sciences, University of Oxford, Momenta, University of Macau"
+Megvii Inc (Face++)
+"EquiLibre Technologies, Prague, Czechia, Google DeepMind, Sony AI, Midjourney, University of Alberta"
+"Shanghai University, Midea Group, East China Normal University"
+"{""Facebook AI Research"",""Stanford University""}"
+"{""University of Washington"",""Allen Institute for Artificial Intelligence""}"
+"{""Tsinghua University"",""Waseda University"",""International Digital Economy Academy""}"
+"Institute of Software, Chinese Academy of Sciences; University of Oxford; Momenta"
+Salesforce Research
+"{Shannon.AI,""Nanjing University"",""Nanyang Technological University"",""Zhejiang University""}"
+rail-berkeley
+"Beijing Academy of Artificial Intelligence, Beihang University, Beijing University of Posts and Telecommunications"
+Naver Labs Europe
+"School of AI, Shanghai Jiao Tong University"
+"Tsinghua University, DAMO Academy, Alibaba Group, BAAI"
+"Microsoft Corporation, Beihang University"
+Peking University & Microsoft Research Asia
+"Stanford University, Tsinghua University, NVIDIA"
+"Google, UCLA"
+DeepScale & UC Berkeley and Stanford University
+"University of Waterloo, Microsoft Research"
+Osaka University
+Beijing Academy of Artificial Intelligence
+Qwen Team
+"{""Cornell University"",""Facebook AI Research"",""Tsinghua University""}"
+Westlake University
+CUHK
+"CMU, DeepMind"
+"Mila - Quebec AI Institute; School of Computer Science, McGill University; DeepMind"
+RWTH Aachen University
+Cohere For AI
+"fast.ai, University of San Francisco, Insight Centre, NUI Galway, Aylien Ltd., Dublin"
+GOOGLE
+"Institute for Interdisciplinary Information Sciences, Tsinghua University; Apple; School of Engineering, Westlake University; The Chinese University of Hong Kong"
+"{""Duke University"",Microsoft}"
+"Google Research, Brain Team, Zürich"
+"DeepScale & UC Berkeley, Stanford University"
+Meta
+"Carnegie Mellon University, Princeton University"
+"FAIR, Meta"
+"UC Berkeley, CUHK, AWS AI, Amazon, UNC-Chapel Hill"
+"National Center for AI (NCAI), Saudi Data and AI Authority (SDAIA)"
+"Cornell University, Tsinghua University, Facebook AI Research"
+The FAIR team of Meta AI
+PKU-PsiBot Joint Lab
+"Preferred Networks, Inc."
+Kimi Team
+University of Michigan
+Microsoft Corporation
+"{""Tsinghua University"",BAAI}"
+"Microsoft, NVIDIA"
+Facebook AI Research
+"Université Paris-Est, École des Ponts"
+The University of Texas at Austin
+University of Edinburgh
+Nanjing University
+"Proteinea, Inc., Technical University of Munich (TUM)"
+"Facebook AI Research, Google Brain"
+"Stanford University, UC Berkeley, Toyota Research Institute, Google Deepmind, Physical Intelligence, MIT"
+Inception
+"CaiNiao Inc., Alibaba Group"
+"{""Carnegie Mellon University"",""Google AI Brain Team""}"
+Tencent
+Carnegie Mellon University and Princeton University
+"Institute for Interdisciplinary Information Sciences, Tsinghua University"
+"{DeepScale,""UC Berkeley"",""Stanford University""}"
+FZI Research Center for Information Technology
+"ELLIS Unit Linz, LIT AI Lab, Institute for Machine Learning, Johannes Kepler University Linz, Austria; Institute of Advanced Research in Artificial Intelligence (IARAI); Department of Immunology, University of Oslo, Norway; Department of Informatics, University of Oslo, Norway"
+Beihang University
+"{""NLP Lab, Northeastern University"",""NiuTrans Research"",""CAS Key Laboratory of Behavioral Science, Institute of Psychology, CAS"",""Kingsoft AI Lab""}"
+"fast.ai, Insight Centre, NUI Galway, Aylien Ltd., University of San Francisco"
+"{""Google Brain"",""Berkeley Artificial Intelligence Research, University of California, Berkeley""}"
+"MIT CSAIL, IIIS Tsinghua University, MIT-IBM Watson AI Lab, DeepMind"
+"MIT CSAIL and IIIS, Tsinghua University; MIT-IBM Watson AI Lab; Deepmind; MIT BCS, CBMM, CSAIL; MIT CSAIL"
+"The University of Adelaide, Australian Centre for Robotic Vision"
+"IBM Research, Almaden"
+Stanford University
+"Allen Institute for AI, University of Washington"
+University of Padova and Fondazione Bruno Kessler (FBK)
+"fast.ai, Insight Centre, NUI Galway, Aylien Ltd."
+Google (implied from authors' affiliations)
+"Tsinghua University, Princeton University, Mila - Québec AI Institute, Univesité de Montréal, HEC, CIFAR AI Research Chair"
+"Inception, UAE and Mohamed bin Zayed University of Artificial Intelligence, UAE"
+Unknown
+CMU
+"Carnegie Mellon University, University of Pittsburgh"
+Hugging Face Inc.
+Toyota Research Institute
+"Computer Science and Artificial Intelligence Lab, MIT and Tel Aviv University"
+"Northeastern University, NiuTrans Research, CAS Key Laboratory of Behavioral Science, Kingsoft AI Lab"
+Computer Shogi Association (CSA)
+"Islamic Azad University, Science and Research branch; Technicolor R&I; Sensifai; Institute for Research in Fundamental Sciences (IPM)"
+CUHK-MMLAB
+UC Berkeley
+AgiBot
+"Institute of Software, Chinese Academy of Sciences; University of Chinese Academy of Sciences; Momenta; University of Oxford"
+"University of California, Berkeley"
+Massachusetts Institute of Technology
+"KAIST, University of Washington, Microsoft Research, NVIDIA, Allen Institute for AI"
+BAAI RoboBrain Team
+Université de Montréal
+"rinna Co., Ltd."
+"Tsinghua University, Zhipu AI"
+Princeton University
+"JD Explore Academy, JD.com Inc."
+Stanford University & Facebook AI Research
+"Microsoft Research, Facebook AI Research, University of Science and Technology of China"
+Ben-Gurion University
+Cornell University
+University of California San Diego
+"Carnegie Mellon University, Google AI Brain Team"
+AI21 Labs
+"Institute of Software, Chinese Academy of Sciences; University of Oxford; Momenta; University of Macau"
+University of Bremen
+"Microsoft Research Asia, Peking University"
+Université Paris-Est
+"NVIDIA, University of Washington"
+Open X-Embodiment Collaboration
+"fast.ai, Insight Centre, NUI Galway, Aylien Ltd., Dublin, University of San Francisco"
+University of Pennsylvania
+MIT and Tel Aviv University
+Megvii Technology
+"Google Research, Robotics at Google, TU Berlin"
+University of Washington & Toyota Research Institute
+"Inria, Facebook AI Research, Sorbonne Université"
+Shijiazhuang University and Beijing University of Posts and Telecommunications
+"Jacobs University Bremen, Germany and Université de Montréal"
+"Nanjing University, Shanghai AI Lab, Shenzhen Institute of Advanced Technology"
+Montreal Institute for Learning Algorithms
+Amazon Web Services
+Google and X (formerly Google X)
+Brown University
+"Shannon.AI, Nanjing University, Nanyang Technological University, Zhejiang University"
+"{""University of California Berkeley"",""California Institute of Technology"",""University of Toronto"",""University of Wisconsin-Madison"",""Morgridge Institute for Research""}"
+Jamba Team
+DeepScale & UC Berkeley
+"Hugging Face, Brown University, BigScience, and others"
+"Meta (FAIR Team), Universite de Lorraine, CNRS, Inria, LORIA, The Hebrew University of Jerusalem"
+"Microsoft Research, Microsoft Dynamics 365 AI"
+N/A
+Shanghai Artificial Intelligence Laboratory
+"Baidu Inc., China"
+UC Berkeley & New York University
+"{MIT,""Tel Aviv University""}"
+NTT Communication Science Laboratories
+"University of California, San Diego (UCSD); Microsoft Research"
+Alibaba Group
+"AI Institute, University of South Carolina"
+BAAI
+"Hugging Face, Brown University, BigScience, others"
+Mozilla Corporation
+"Princeton University, Intel Labs"
+"Stanford University, MetaMind Inc."
+Mila - Quebec AI Institute
+"DeepMind, University of Oxford"
+"Institute of Computer Science, FORTH and Computer Science Department, University of Crete"
+Inspur Artificial Intelligence Research Institute
+Princeton University and Tsinghua University
+"DeepMind, UCL"
+"Zhejiang University, MiLAB, Westlake University, AIM Lab, Faculty of IT, Monash University, HKUST(GZ)"
+"Nanjing University, University of Adelaide"
+Samsung R&D Institute Russia
+"Microsoft Research Asia, University of California, San Diego, Beihang University"
+"Northeastern University, Boston"
+Cohere For AI Community
+"Osaka University, AIX, The University of Electro-Communications"
+"TurkuNLP Group, University of Turku; Hugging Face"
+"CUHK-SenseTime Joint Lab, The Chinese University of Hong Kong"
+"The University of Texas at Austin, Microsoft Azure AI"
+Physical Intelligence
+"Tsinghua University, BAAI"
+"University Paris-Est, LIGM, Ecole des Ponts ParisTech"
+"Foundation Model Research Center, Institute of Automation, Chinese Academy of Sciences"
+"FAIR, Meta AI"
+"Academy for Engineering & Technology, Fudan University; Institute for AI Industry Research, Tsinghua University"
+TurkuNLP
+Apple AI/ML
+Stanford University and Google Brain
+New York University
+Google Cloud AI
+IDSIA / USI-SUPSI
+Salesforce AI Research
+"State Key Laboratory for Novel Software Technology, Nanjing University"
+"Tsinghua University, Stanford University"
+"Facebook AI Research, UC San Diego"
+"Proteinea, Inc."
+"KAIST, NAVER Cloud"
+"Google Inc., U.S.A."
+Google Research
+"Google AI, Brain Team"
+University of Modena and Reggio Emilia
+ASAPP Inc.
+"ByteDance, S-Lab, NTU, CUHK, HKUST"
+Columbia University
+"National University of Defense Technology, Wuhan University, Shenzhen University, Guangdong Laboratory of Artificial Intelligence and Digital Economy"
+King’s College London
+"KAIST AI, LG AI Research"
+"Heidelberg Collaboratory for Image Processing, IWR, Heidelberg University, Germany"
+"CSAIL, Massachusetts Institute of Technology"
+"University of Toronto, Twitter, Vector Institute"
+"DeepMind, Google Brain"
+NIIDT
+Covariant
+The University of Adelaide
+"Tianjin University, Microsoft Research Asia, Beijing Institute of Technology"
+Tsinghua University and Shanghai AI Lab
+Mobvoi AI Lab
+"{""ETH Zürich"",DisneyResearch|Studios}"
+"Technical University of Darmstadt, Poznan University of Technology"
+Stanford
+"Ludwig Maximilian University of Munich & IWR, Heidelberg University, Germany & Runway ML"
+"Computer Science and Artificial Intelligence Lab, MIT; Tel Aviv University"
+"MIT CSAIL and IIIS, Tsinghua University & MIT-IBM Watson AI Lab & Deepmind & MIT BCS, CBMM, CSAIL"
+York University
+University of Hyderabad
+"Facebook AI, Sorbonne University"
+"Inception, UAE and Mohamed bin Zayed University of Artificial Intelligence, UAE and Cerebras Systems"
+"Facebook AI Research, Inria, Sorbonne University"
+Not specified
+"Microsoft Research Asia, Soochow University"
+"ZHIPU AI, Tsinghua University"
+"Stability AI, Applied Research"
+"Computer Sciences Department, University of Wisconsin-Madison"
+"Stanford University, Salesforce Research"
+"Technology Innovation Institute, Abu Dhabi"
+Robotics at Google
+"MiLAB, Westlake University"
+"Meta, Universite de Lorraine, CNRS, Inria, LORIA, Nancy, France, The Hebrew University of Jerusalem"
+"Tsinghua University, Shanghai AI Lab, University of Illinois Urbana-Champaign, Peking University, Shanghai Jiaotong University, CUHK"
+"Inception, Mohamed bin Zayed University of Artificial Intelligence, Cerebras Systems"
+"University of California, Los Angeles; Columbia University; Shanghai Frontiers Science Center of Artificial Intelligence and Deep Learning, NYU Shanghai; Business Division, NYU Shanghai"
+"{Microsoft,NVIDIA}"
+BigCode community
+DeepSeek-AI
+"Galbot, Peking University, The University of Hong Kong, Beijing Academy of Artificial Intelligence"
+University of Cambridge
+NVIDIA Corporation
+"{Google,""Stanford University""}"
+Google Inc.
+ShanghaiTech University
+UCSD
+"Facebook AI Research, Stanford University"
+"Shanghai AI Laboratory, MMLab, CUHK, ShanghaiTech University"
+"Dept. of Computer Science, Courant Institute, New York University"
+Jane Street Group
+"Google, Stanford University"
+"Brown University, Facebook AI Research"
+Facebook AI Research; University College London; New York University
+"Inception, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Cerebras Systems"
+Google DeepMind
+"UC Berkeley, UT Austin, UMass Lowell, International Computer Science Institute"
+Auburn University
+Horizon Robotics Inc.
+"{""UC Berkeley"",Stanford,""Carnegie Mellon University"",""Google Deepmind""}"
+"{OpenAI,""Anthropic AI"",Zipline}"
+KU Leuven
+Microsoft Research
+Google Cloud Platform
+University of Manchester
+"{""National Tsing Hua University"",Google}"
+"National University of Singapore, Columbia University, Shandong University, Texas A&M University"
+"Meta, Universite de Lorraine, CNRS, Inria, LORIA, The Hebrew University of Jerusalem"
+"Robotics Institute, Carnegie Mellon University"
+"Johannes Kepler University Linz, Institute for Machine Learning"
+"{""ESAT – PSI, KU Leuven"",""Apple Inc.""}"
+"Johannes Kepler University Linz, Institute of Advanced Research in Artificial Intelligence (IARAI), University of Oslo"
+Facebook AI
+"University of Toronto, Vector Institute"
+"ETH Zürich, DisneyResearch|Studios"
+"{""Computer Science and Artificial Intelligence Lab, MIT"",""Tel Aviv University""}"
+MIT Computer Science and Artificial Intelligence Laboratory
+"Stanford University, University at Buffalo, SUNY"
+"Microsoft Research, University of Science and Technology of China, Facebook AI Research"
+ByteDance
+"{""SenseTime Group Limited"",""The Chinese University of Hong Kong"",""Shenzhen Institutes of Advanced Technology"",""Chinese Academy of Sciences"",""Nanyang Technological University""}"
+Digital Brain Laboratory
+01.AI
+"{""Harvard University"",""New York University""}"
+"CaiNiao Inc., Alibaba Group & Zhejiang University"
+"Inception, UAE; Mohamed bin Zayed University of Artificial Intelligence, UAE; Cerebras Systems"
+"Department of ECE, ASRI, Seoul National University"
+Apple
+"Stanford University, Intuitive Surgical Inc."
+"{""Allen Institute for Artificial Intelligence""}"
+"Stanford University, Google Brain"
+"University of Waterloo, Alibaba Group, Vector Institute"
+"Carnegie Mellon University, Apple"
+"Intel, Samsung, Google Cloud, Google TFTC team, Amazon AWS, ARO, DARPA, NSF, ONR"
+"Duke University, Microsoft"
+"Meta AI Research, FAIR"
+The University of Texas at Austin and Microsoft Azure AI
+"ECU, AIST, LUH"
+"Clova AI Research, NAVER Corp."
+"State Key Laboratory for Novel Software Technology, Nanjing University, China; Shanghai AI Lab, China; Shenzhen Institute of Advanced Technology, CAS, China"
+Meta AI
+CUHK-SenseTime Joint Lab
+The Chinese University of Hong Kong
+"Univ. of California, Los Angeles and Google Inc."
+University of Wisconsin-Madison
+"NLP Lab, Northeastern University"
+BigScience
+"Clova AI Research, NAVER Corp & EPFL"
+National Tsing Hua University
+"Google Brain, Berkeley Artificial Intelligence Research, University of California, Berkeley"
+"{""Cornell University"",""Tsinghua University"",""Facebook AI Research""}"
+"University of Chinese Academy of Sciences, Duke University"
+Microsoft/NVIDIA
+MosaicML
+Robotics at Google and Everyday Robots
+"Clova AI Research, NAVER Corp; EPFL"
+"Islamic Azad University, Science and Research branch"
+LG AI Research
+Grammarly
+"CUHK-SenseTime Joint Lab, The Chinese University of Hong Kong; SIAT-SenseTime Joint Lab, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences; Nanyang Technological University, Singapore"
+"Université de Montréal, Jacobs University, Université du Maine"
+Studio Ousia
+The Robot Learning Lab at Imperial College London
+"Allen Institute for Artificial Intelligence, Paul G. Allen School of Computer Science & Engineering, University of Washington"
+"Inception, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), and Cerebras Systems."
+"Preferred Networks, Inc., Ritsumeikan University, National Institute of Informatics"
+"Baidu Inc., Peng Cheng Laboratory"
+"DeepMind, London, UK"
+"IIIS, Tsinghua University; Shanghai AI Laboratory; Shanghai Qi Zhi Institute; Department of Automation, Tsinghua University"
+"Visual Geometry Group, University of Oxford"
+"{""Tsinghua University"",""University of Technology Sydney"",""University of Texas at San Antonio""}"
+"Ministry of Education, Singapore"
+"{""Brown University"",""Facebook AI Research""}"
+"Megvii Inc (Face++), Tsinghua University"
+MIT
+"ELLIS Unit Linz, LIT AI Lab, Institute for Machine Learning, Johannes Kepler University Linz, Austria"
+FAIR at Meta
+"Nanjing University of Aeronautics and Astronautics; Shanghai AI Laboratory; National University of Singapore; Nanjing University of Posts and Telecommunications; S-Lab, Nanyang Technological University"
+NVIDIA and Aalto University
+"IDSIA, University of Lugano & SUPSI"
+Technology Innovation Institute
+"Tsinghua University, Shanghai Qi Zhi Institute, Shanghai Artificial Intelligence Laboratory, UC Berkeley"
+"UC San Diego, Facebook AI Research"
+"{""Uber AI"",OpenAI}"
+"{""University of Waterloo"",""Microsoft Research""}"
+Bloomberg
+Baidu Research
+"{""Université de Montréal"",""Jacobs University"",""Université du Maine""}"
+"Institute for Interdisciplinary Information Sciences, Tsinghua University; Apple; Westlake University; The Chinese University of Hong Kong"
+Universiteit van Amsterdam
+"Noah’s Ark Lab, Huawei Technologies"
+"Peking University, Microsoft Research Asia"
+"{""Facebook AI Research"",""Google Brain""}"
+"UC Berkeley, UT Austin, UMass Lowell"
+Stanford University & Google Brain
+Amazon Alexa AI
+"{""Korea University"",""Princeton University""}"
+"Tsinghua University, Waseda University, International Digital Economy Academy"
+"Grammarly, University of Minnesota"
+"FAIR Team, Meta AI"
+THUDM
+"University of Washington, Allen Institute for AI"
+"Microsoft Dynamics 365 AI, Microsoft Research"
+"University of Technology Sydney, Beijing Institute of Technology, Monash University"
+Politecnico di Torino
+"Center for Cognitive Modeling, Moscow Institute of Physics and Technology"
+"Univ. of California, Los Angeles & Google Inc."
+TensorTour Inc.
+"NVIDIA, CMU"
+"{""KU Leuven"",""Apple Inc.""}"
+"NLP Lab, Northeastern University, NiuTrans Research, CAS Key Laboratory of Behavioral Science, Kingsoft AI Lab"
+"Smart Systems Institute, National University of Singapore"
+"{""Soochow University"",""Microsoft Research Asia""}"
+"Mila - Quebec AI Institute, School of Computer Science, McGill University, DeepMind"
+Google AI
+"Institute for Interdisciplinary Information Sciences, Tsinghua University; Apple; The Chinese University of Hong Kong; Westlake University"
+"Visual Geometry Group, Department of Engineering Science, University of Oxford"
+Duke University & Microsoft
+Microsoft
+Carnegie Mellon University & Intel Labs
+"Meta AI, The University of Texas at Austin"
+"Google Research, Carnegie Mellon University"
+Google Brain
+"University of Manchester, The Alan Turing Institute"
+"{""National University of Singapore"",""Columbia University"",""Shandong University"",""Texas A&M University""}"
+"{""Massachusetts Institute of Technology"",""MIT-IBM Watson AI Lab""}"
+"Université de Montréal, Aalto University"
+Massachusetts Institute of Technology (MIT)
+"UC Berkeley, New York University"
+"Google DeepMind, EquiLibre Technologies, Sony AI, Amii, Midjourney, University of Alberta"
+Samsung Electronics Polska sp. z o.o. - Samsung R&D Institute Poland
+"Ludwig Maximilian University of Munich & IWR, Heidelberg University, Germany; Runway ML"
+"{""Northeastern University"",""University of Rochester""}"
+"The Chinese University of Hong Kong, State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University, AI2Robotics, Beijing Academy of Artificial Intelligence (BAAI)"
+University of Warwick
+"{""University of Washington"",""Facebook AI Research"",""Allen Institute for AI""}"
+Google Cloud AI and Google Research
+"{CMU,DeepMind}"
+"Université de Montréal, Aalto University School of Science"
+Tsinghua University & BAAI
+"ASAPP Inc., Google Brain, Princeton University, Cornell University"
+"IIIS, Tsinghua University, Shanghai AI Laboratory, Shanghai Qi Zhi Institute"
+"UC Berkeley & New York University (Meta AI, FAIR Team)"
+Technology Innovation Institute (TII)
+"University of Oxford, Stanford University, Baidu Institute of Deep Learning"
+"University of Wisconsin–Madison, Microsoft Research, Columbia University"
+Allen Institute for AI
+IBM T.J. Watson Research Center
+"NLP Lab, Northeastern University; NiuTrans Research; CAS Key Laboratory of Behavioral Science, Institute of Psychology, CAS; Kingsoft AI Lab"
+"MIT, Tel Aviv University"
+"Institute of Automation, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Beijing Academy of Artificial Intelligence, Carnegie Mellon University, Galbot, CFCS, School of Computer Science, Peking University"
+"Google Research, Google Cloud AI"
+"Facebook AI Research, Inria, Sorbonne Université"
+Waymo LLC
+Fudan University
+"Shanghai AI Laboratory, MMLab CUHK, ShanghaiTech University"
+"Nanjing University, Shanghai AI Lab, Shenzhen Institute of Advanced Technology, CAS"
+West Virginia University
+"{""Mila - Quebec AI Institute"",""McGill University"",DeepMind}"
+Khoury College of Computer Sciences Northeastern University
+Shannon.AI
+Purdue University
+EquiLibre Technologies and Google DeepMind
+"Tsinghua University, Apple, Westlake University, The Chinese University of Hong Kong"
+University of Hamburg
+"IDSIA / USI-SUPSI, Dalle Molle Institute for Artificial Intelligence"
+"Nanjing University; Shanghai AI Lab; Shenzhen Institute of Advanced Technology, CAS"
+"Univ. of California, Los Angeles, Google Inc., CentraleSupélec, INRIA"
+deepset
+Capital One
+"Clova AI Research, NAVER Corp. and EPFL"
+"NLP Lab, Northeastern University, Shenyang, China; NiuTrans Research, Shenyang, China; CAS Key Laboratory of Behavioral Science, Institute of Psychology, CAS, Beijing, China; Kingsoft AI Lab, Beijing, China"
+"Shanghai Qi Zhi, Stanford, ShanghaiTech, CMU, Tsinghua"
+"ASAPP, Inc."
+German Research Center for AI & DeepMind
+HazyResearch
+"Jacobs University Bremen, Université de Montréal"
+"MIT CSAIL, IIIS Tsinghua University, MIT-IBM Watson AI Lab, Deepmind"
+"{""Peking University"",""Microsoft Research Asia""}"
+"TurkuNLP Group, University of Turku; Hugging Face; National Library of Finland; AMD"
+"KU Leuven, Apple Inc."
+Baidu Research – Silicon Valley AI Lab
+Sun Yat-sen University
+"CUHK-SenseTime Joint Lab, The Chinese University of Hong Kong; SIAT-SenseTime Joint Lab, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences; The Chinese University of Hong Kong, Shenzhen; University of Chinese Academy of Sciences; Nanyang Technological University, Singapore"
+"Nanjing University, Ant Group"
+"Meta AI, FAIR Team"
+"TurkuNLP Group, University of Turku"
+"DisneyResearch|Studios, ETH Zürich"
+University of Technology Sydney
+"State Key Laboratory for Novel Software Technology, Nanjing University, China; School of Computer Science, University of Adelaide, Australia"
+Knowledge Engineering Group (KEG) and Data Mining at Tsinghua University (THUDM)
+"{""EquiLibre Technologies"",""Google DeepMind"",""Sony AI"",Amii,Midjourney,""University of Alberta""}"
+"State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences"
+UCLA
+Facebook AI Research & Google Brain
+Shanghai AI Laboratory
+"Soochow University, Microsoft Research Asia"
+"Tsinghua University, Tencent, S-Lab, NTU"
+"Microsoft Research, Facebook AI Research"
+Mistral AI
+"fast.ai; University of San Francisco; Insight Centre, NUI Galway; Aylien Ltd., Dublin"
+University of Hong Kong
+"Robotics at Google, Everyday Robots, Google Research, Brain Team"
+Stability AI
+"Princeton University, Tsinghua University"
+Alana AI
+"Hugging Face, Inc"
+University of Freiburg
+"{""Tsinghua University"",Tencent,""S-Lab, NTU""}"
+"Mila - Quebec AI Institute, McGill University, DeepMind"
+"{""Northeastern University"",""NiuTrans Research"",""Institute of Psychology, CAS"",""Kingsoft AI Lab""}"
+Technical University of Munich (TUM)
+"EquiLibre Technologies, Google DeepMind, Sony AI"
+"University of Texas at Austin, Eindhoven University of Technology"
+Midea Group
+"Tsinghua University, Princeton University, Mila - Québec AI Institute, Université de Montréal, HEC Montréal"
+NAVER Corp
+"Hugging Face, Brown University, and others"
+"{""University of Chinese Academy of Sciences"",""Duke University""}"
+Anthropic
+Microsoft Research Asia
+"Facebook AI Research, University of Washington, UC Berkeley, TTI-Chicago, Carnegie Mellon University"
+BigScience Workshop
+"Technical University of Munich (TUM), Proteinea, Inc., Columbia University"
+"Beijing Academy of Artificial Intelligence, Huazhong University of Science and Technology, Zhejiang University, Beijing Institute of Technology"
+Carnegie Mellon University & Bosch Center for AI & Intel Labs
+"Inria, Paris, France"
+"Salesforce Research, Hong Kong University of Science and Technology, Nanyang Technological University"
+Google Brain / Google Research
+"FAIR Team, Meta"
+"Beijing Academy of Artificial Intelligence, School of Computer Science, Peking University"
+"DAMO Academy, Alibaba Group"
+"University of Amsterdam, OpenAI"
+UC Berkeley and New York University
+UCSD and Microsoft Research
+"fast.ai, University of San Francisco, Insight Centre, NUI Galway, Aylien Ltd."
+"Allen Institute for Artificial Intelligence and Paul G. Allen School of Computer Science & Engineering, University of Washington"
+ETH Zürich
+Tsinghua University & Zhipu AI
+Duke University
+University of Waterloo & Alibaba Group
+"{""Google DeepMind"",""EquiLibre Technologies"",""Sony AI"",Amii,Midjourney,""University of Alberta""}"
+NVIDIA Research
+NAVER Cloud Summary.AI
+MetaMind
+"Tsinghua University, University of California, Berkeley"
+IBM
+Nvidia
+"The University of Hong Kong, Shanghai AI Laboratory, Noah’s Ark Laboratory"
+"Google Research, Brain Team"
+"Yonsei University, LG AI Research"
+"MILA, Université de Montréal"
+"Heidelberg Collaboratory for Image Processing, IWR, Heidelberg University"
+"{""Univ. of California, Los Angeles"",""Google Inc."",""CentraleSupélec and INRIA""}"
+Harvard University & New York University
+"Tianjin University, Huawei Noah’s Ark Lab"
+"Key Laboratory of AI Safety of CAS, Institute of Computing Technology, Chinese Academy of Sciences (CAS)"
+"{""National University of Defense Technology"",""Fudan University"",""Microsoft Research""}"
+"Université Paris-Est, École des Ponts ParisTech"
+Megvii Inc (Face++) and Tsinghua University
+"Technical University of Munich, ETH Zürich, Microsoft"
+Alibaba Rhino fashion production
+"Zhipu AI, Tsinghua University"
+"Georgia Tech Research Institute, Georgia Institute of Technology"
+DeepMind
+University of Wisconsin–Madison
+"University of Technology Nuremberg, UC Berkeley, Google Research"
+"MIT CSAIL, MIT-IBM Watson AI Lab, Deepmind, MIT BCS, CBMM"
+"Inception, UAE"
+"Beijing Institute of Technology, University of Technology Sydney, Monash University"
+"Inception, Mohamed bin Zayed University of Artificial Intelligence, UAE, Cerebras Systems"
+UC San Diego
+"CMU, IIIT Hyderabad, MIT, University of Adelaide"
+FAIRSEQ
+"Harvard University, New York University"
+"Montreal Institute for Learning Algorithms, Courant Institute of Mathematical Sciences"
+ByteDance Research
+"Shanghai AI Lab, China"
+"National Tsing Hua University, Google"
+"{""German Research Center for AI"",DeepMind}"
+Chinese Academy of Sciences
+"Peking University, BIGAI, Shandong University, Tsinghua University"
+"University of California Berkeley, California Institute of Technology, University of Toronto, University of Wisconsin-Madison, Morgridge Institute for Research"
+Google AI Language
+"{""Facebook AI Research"",Inria,""Sorbonne Université""}"
+"{""Princeton University"",""Intel Labs""}"
+Tufts University & Bosch Center for AI
+"{""University of Toronto"",Twitter,""Vector Institute""}"
+"Stanford University, University of California, Berkeley, Google Deepmind"
+"Clova AI Research, NAVER Corp"
+"University of Alberta, Department of Computing Science"
+Improbable AI Lab
+"Munich Center for Machine Learning (MCML), Technical University of Munich"
+Alibaba Cloud
+"{DeepMind,""Google Brain""}"
+"Tsinghua University, DAMO Academy (Alibaba Group), BAAI"
+University of Guelph
+DeepMind Technologies
+"{""Beijing Institute of Technology"",""University of Technology Sydney"",""Monash University""}"
+"University of Toronto, Université de Sherbrooke, Harvard University"
+Google
+Samsung Research
+"Samsung Research, Seoul"
+21 institutions
+Northeastern University
+"University of Southern California, NVIDIA, Georgia Institute of Technology"
+"Shanghai AI Laboratory, Tsinghua University, Nanjing University, SenseTime Research, The Chinese University of Hong Kong"
+"Johannes Kepler University Linz, IARAI, University of Oslo"
+"Seoul National University, Korea"
+"University of Washington, Allen Institute for Artificial Intelligence"
+"MIT CSAIL and IIIS, Tsinghua University; MIT-IBM Watson AI Lab; Deepmind; MIT BCS, CBMM, CSAIL"
+"Studio Ousia, RIKEN AIP, University of Washington, Nara Institute of Science and Technology, National Institute of Informatics"
+University of California Berkeley
+IDSIA
+Runway
+"Salesforce Research, Hong Kong University of Science and Technology, Nanyang Technological University, Singapore"
+EleutherAI
+Tufts University
+"Google, X (formerly Google X)"
+Team
+"Zhejiang University, Tsinghua University, Youtu Lab, Tecent, Harbin Institute of Technology, Weihai, Shanghai Jiao Tong University"
+"University of Washington, Facebook AI Research, Allen Institute for AI"
+"Facebook AI Research, University College London, New York University"
+MIT CSAIL
+Facebook
+Toshiba Europe Ltd
+"NTT Communication Science Laboratories, Tohoku University"
+Nanjing University of Aeronautics and Astronautics; National University of Singapore; Nanjing University of Posts and Telecommunications; Shanghai AI Laboratory; Nanyang Technological University
+Huawei
+Microsoft Maluuba
+"Google Brain, Stanford University"
+University of Waterloo & Microsoft Research
+Uber AI
+The University of Texas at Austin & Microsoft Azure AI
+"University of California, Los Angeles"
+"Maitrix.org, UC San Diego, MBZUAI"
+"University of Amsterdam, OpenAI, University of Toronto"
+"{""Preferred Networks, Inc."",""Ritsumeikan University"",""National Institute of Informatics""}"
+University of Waterloo
+University of Chinese Academy of Sciences
+Baidu Inc.
+"{""Dept. of Computer Science, Courant Institute, New York University""}"
+Tsinghua University & Huawei Noah’s Ark Lab
+"State Key Laboratory for Novel Software Technology, Nanjing University, China"
+Shanghai Qi Zhi
+NASA-JPL
+"Carnegie Mellon University, Bosch Center for AI, Intel Labs"
+"CUHK-SenseTime Joint Lab, The Chinese University of Hong Kong; SIAT-SenseTime Joint Lab, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences; Nanyang Technological University"

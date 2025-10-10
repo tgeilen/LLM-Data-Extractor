@@ -1,0 +1,145 @@
+21 institutions
+"Academy for Engineering & Technology, Fudan University; Institute for AI Industry Research, Tsinghua University"
+AgiBot
+"AI Institute, University of South Carolina"
+"AIR, Tsinghua University"
+Alana AI
+Apple
+Auburn University
+BAAI RoboBrain Team
+Beihang University
+"Beijing Academy of Artificial Intelligence, School of Computer Science, Peking University"
+ByteDance Research
+"ByteDance Research, Tsinghua University, Shanghai Jiao Tong University, National University of Singapore"
+"CaiNiao Inc., Alibaba Group & Zhejiang University"
+Carnegie Mellon University
+"Carnegie Mellon University, Apple"
+"Center for Cognitive Modeling, Moscow Institute of Physics and Technology"
+"CMU, IIIT Hyderabad, MIT, University of Adelaide"
+Columbia University
+"Columbia University, University of Illinois, Urbana-Champaign, Boston Dynamics AI Institute"
+"Columbia University, University of Illinois, Urbana-Champaign, National University of Singapore, Boston Dynamics AI Institute, Stanford University"
+"Continuum Robotics Laboratory, Department of Mathematical and Computational Sciences, University of Toronto"
+Covariant
+DeepMind
+Digital Brain Laboratory
+ETH Zürich
+FAIR at Meta
+"Foundation Model Research Center, Institute of Automation, Chinese Academy of Sciences"
+Fudan University
+FZI Research Center for Information Technology
+"Galbot, Peking University, The University of Hong Kong, Beijing Academy of Artificial Intelligence"
+"Georgia Tech Research Institute, Georgia Institute of Technology"
+Google
+Google AI
+Google DeepMind
+Horizon Robotics Inc.
+"IDLab, Ghent University; VERSES AI Research Lab; Mila, University of Montreal; ServiceNow Research"
+"IIIS, Tsinghua University, Shanghai AI Laboratory, Shanghai Qi Zhi Institute"
+"IIIS, Tsinghua University; Shanghai AI Laboratory; Shanghai Qi Zhi Institute; Department of Automation, Tsinghua University"
+Improbable AI Lab
+"Institute for Interdisciplinary Information Sciences, Tsinghua University"
+Institute of Automation Chinese Academy of Sciences
+"Institute of Automation, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Beijing Academy of Artificial Intelligence, Carnegie Mellon University, Galbot, CFCS, School of Computer Science, Peking University"
+"Institute of Computer Science, FORTH and Computer Science Department, University of Crete"
+"KAIST, University of Washington, Microsoft Research, NVIDIA, Allen Institute for AI"
+"Key Laboratory of AI Safety of CAS, Institute of Computing Technology, Chinese Academy of Sciences (CAS)"
+Khoury College of Computer Sciences Northeastern University
+King’s College London
+Kyoto University and ATR
+"Maitrix.org, UC San Diego, MBZUAI"
+Massachusetts Institute of Technology
+Meta
+Microsoft Research
+Microsoft Research Asia
+Midea Group
+"MiLAB, Westlake University"
+MIT CSAIL
+"MIT, Université de Montréal, University of Toronto, IIIT Hyderabad, CMU, DEVCOM Army Research Lab, Amazon, Concordia University"
+"Munich Center for Machine Learning (MCML), Technical University of Munich"
+N/A
+Nanjing University of Aeronautics and Astronautics; National University of Singapore; Nanjing University of Posts and Telecommunications; Shanghai AI Laboratory; Nanyang Technological University
+"Nanjing University of Aeronautics and Astronautics; Shanghai AI Laboratory; National University of Singapore; Nanjing University of Posts and Telecommunications; S-Lab, Nanyang Technological University"
+NASA-JPL
+National University of Defense and Technology
+"National University of Defense Technology, Wuhan University, Shenzhen University, Guangdong Laboratory of Artificial Intelligence and Digital Economy"
+National University of Singapore
+Naver Labs Europe
+NIIDT
+Nvidia
+NVIDIA
+NVIDIA Research
+"NVIDIA, CMU"
+"NVIDIA, University of Washington"
+OpenAI
+Osaka University
+Peking University
+"Peking University, BIGAI, Shandong University, Tsinghua University"
+Peking University; Beijing Academy of Artificial Intelligence (BAAI); CUHK
+Physical Intelligence
+PKU-PsiBot Joint Lab
+Politecnico di Torino
+Purdue University
+"Robotics Institute, Carnegie Mellon University"
+RWTH Aachen University
+"School of AI, Shanghai Jiao Tong University"
+Shanghai AI Laboratory
+Shanghai Artificial Intelligence Laboratory
+"Shanghai Jiao Tong University, UC Berkeley, UNC, Chapel Hill"
+"Shanghai Jiao Tong University, UC San Diego, University of Hong Kong, AWS AI, Amazon"
+"Shanghai University, Midea Group, East China Normal University"
+ShanghaiTech University
+Shijiazhuang University and Beijing University of Posts and Telecommunications
+"Smart Systems Institute, National University of Singapore"
+Stanford University
+"Stanford University, Intuitive Surgical Inc."
+"Stanford University, University of California, Berkeley, Google Deepmind"
+"State Key Laboratory for Novel Software Technology, Nanjing University"
+"State Key Laboratory for Novel Software Technology, Nanjing University, China"
+Sun Yat-sen University
+"Technical University of Darmstadt, Poznan University of Technology"
+"Technical University of Munich, ETH Zürich, Microsoft"
+Technische Universität Darmstadt
+The AI Institute
+"The Chinese University of Hong Kong, State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University, AI^2Robotics, Beijing Academy of Artificial Intelligence (BAAI)"
+The Robot Learning Lab at Imperial College London
+"The University of Hong Kong, Shanghai AI Laboratory, Noah’s Ark Laboratory"
+The University of Texas at Austin
+"Tianjin University, Huawei Noah’s Ark Lab"
+Toshiba Europe Ltd
+Toyota Research Institute
+Tsinghua University
+Tsinghua University & Huawei Noah’s Ark Lab
+"Tsinghua University, Shanghai Qi Zhi Institute, Shanghai Artificial Intelligence Laboratory, UC Berkeley"
+Tufts University
+Tufts University & Bosch Center for AI
+UC Berkeley
+"UC Berkeley, CUHK, AWS AI, Amazon, UNC-Chapel Hill"
+UC San Diego
+University of Bremen
+"University of California, Los Angeles"
+University of Cambridge
+University of Florida
+University of Freiburg
+University of Hamburg
+University of Hong Kong
+University of Illinois Urbana-Champaign (UIUC)
+University of Michigan
+University of Neyshabur & Ferdowsi University of Mashhad
+University of Oxford
+University of Padova and Fondazione Bruno Kessler (FBK)
+University of Pennsylvania
+University of Southern California
+"University of Southern California, NVIDIA, Georgia Institute of Technology"
+"University of Technology Nuremberg, UC Berkeley, Google Research"
+"University of Texas at Austin, Eindhoven University of Technology"
+"University of Toronto, Université de Montréal, MIT, DEVCOM ARL, JHU APL, JHU, UMass"
+University of Washington
+University of Washington & Toyota Research Institute
+Waymo LLC
+West Virginia University
+Westlake University
+"Yonsei University, LG AI Research"
+Zenseact
+"Zhejiang University, MiLAB, Westlake University, AIM Lab, Faculty of IT, Monash University, HKUST(GZ)"
+"Zhejiang University, Tsinghua University, Youtu Lab, Tecent, Harbin Institute of Technology, Weihai, Shanghai Jiao Tong University"

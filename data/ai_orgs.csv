@@ -1,0 +1,612 @@
+Instiution	Country	Region	MainOrg	Type
+01.AI	China	China	01.AI	INDUSTRY
+Aalto University	Finland	Europe	Aalto University	ACADEMIA
+Aalto University School of Science	Finland	Europe	Aalto University	ACADEMIA
+Abu Dhabi	United Arab Emirates	Middle East	Abu Dhabi	N/A
+Academy for Engineering	n/a	n/a	Academy for Engineering	ACADEMIA
+AgiBot	Germany	Europe	AgiBot	INDUSTRY
+AI Institute	n/a	n/a	AI Institute	N/A
+AI^2Robotics	Germany	Europe	AI^2Robotics	ACADEMIA
+AI21 Labs	Israel	Middle East	AI21 Labs	INDUSTRY
+AI2Robotics	USA	North America	AI2Robotics	INDUSTRY
+AI4Finance-Foundation	n/a	n/a	AI4Finance-Foundation	N/A
+AIM Lab	USA	North America	AIM Lab	ACADEMIA
+AIR	USA	North America	AIR	ACADEMIA
+AIST	Japan	APAC	AIST	ACADEMIA
+AIX	Germany	Europe	AIX	N/A
+Alana AI	United Kingdom	Europe	Alana AI	INDUSTRY
+Alibaba	China	China	Alibaba	INDUSTRY
+Alibaba Rhino fashion production	China	China	Alibaba	INDUSTRY
+DAMO Academy	China	China	Alibaba	INDUSTRY
+Alibaba Cloud	China	China	Alibaba	INDUSTRY
+Alibaba Group	China	China	Alibaba	INDUSTRY
+CaiNiao Inc.	China	China	Alibaba	INDUSTRY
+DAMO Academy Alibaba Group	China	China	Alibaba	INDUSTRY
+Qwen Team	China	China	Alibaba	INDUSTRY
+Allen Institute for AI	USA	North America	Allen Institute for Artificial Intelligence	ACADEMIA
+Allen Institute for Artificial Intelligence	USA	North America	Allen Institute for Artificial Intelligence	ACADEMIA
+Brain Team	USA	North America	Alphabet	ACADEMIA
+DeepMind	United Kingdom	Europe	Alphabet	INDUSTRY
+DeepMind Technologies	United Kingdom	Europe	Alphabet	INDUSTRY
+Deepmind	United Kingdom	Europe	Alphabet	INDUSTRY
+Everyday Robots	USA	North America	Alphabet	INDUSTRY
+GOOGLE	USA	North America	Alphabet	INDUSTRY
+Google	USA	North America	Alphabet	INDUSTRY
+Google AI	USA	North America	Alphabet	INDUSTRY
+Google AI Brain Team	USA	North America	Alphabet	INDUSTRY
+Google AI Language	USA	North America	Alphabet	INDUSTRY
+Google Brain	United States	North America	Alphabet	INDUSTRY
+Google Brain / Google Research	USA	North America	Alphabet	INDUSTRY
+Google Cloud	USA	North America	Alphabet	INDUSTRY
+Google Cloud AI	USA	North America	Alphabet	INDUSTRY
+Google Cloud Platform	USA	North America	Alphabet	INDUSTRY
+Google DeepMind	United Kingdom	Europe	Alphabet	INDUSTRY
+Google Deepmind	United Kingdom	Europe	Alphabet	INDUSTRY
+Google Inc	United States	North America	Alphabet	INDUSTRY
+Google Inc.	USA	North America	Alphabet	INDUSTRY
+Google Research	USA	North America	Alphabet	INDUSTRY
+Google TFTC team	USA	North America	Alphabet	INDUSTRY
+Google implied from authors affiliations	USA	North America	Alphabet	INDUSTRY
+Robotics at Google	USA	North America	Alphabet	INDUSTRY
+Waymo LLC	USA	North America	Alphabet	INDUSTRY
+X formerly Google X	USA	North America	Alphabet	INDUSTRY
+AWS AI	USA	North America	Amazon	INDUSTRY
+Amazon	USA	North America	Amazon	INDUSTRY
+Amazon AWS	USA	North America	Amazon	INDUSTRY
+Amazon Alexa AI	USA	North America	Amazon	INDUSTRY
+Amazon Web Services	USA	North America	Amazon	INDUSTRY
+AMD	USA	North America	AMD	INDUSTRY
+Amii	Canada	North America	Amii	ACADEMIA
+and others	n/a	n/a	and others	N/A
+Ant Group	China	China	Ant Group	INDUSTRY
+Anthropic	USA	North America	Anthropic	INDUSTRY
+Anthropic AI	USA	North America	Anthropic	INDUSTRY
+Apple	United States	North America	Apple	INDUSTRY
+Apple AI/ML	USA	North America	Apple	INDUSTRY
+Apple Inc.	USA	North America	Apple 	INDUSTRY
+Applied Research	USA	North America	Applied Research	ACADEMIA
+ARO	Israel	Middle East	ARO	ACADEMIA
+Artificial Intelligence Lab	USA	North America	Artificial Intelligence Lab	ACADEMIA
+Artificial Intelligence Laboratory	USA	North America	Artificial Intelligence Lab	ACADEMIA
+ASAPP	USA	North America	ASAPP	INDUSTRY
+ASAPP Inc.	USA	North America	ASAPP 	INDUSTRY
+ASRI	United States	North America	ASRI	ACADEMIA
+Astronautics	USA	North America	Astronautics	INDUSTRY
+ATR	Japan	APAC	ATR	ACADEMIA
+Auburn University	USA	North America	Auburn University	ACADEMIA
+Australia	Australia	APAC	Australia	N/A
+Australian Centre for Robotic Vision	Australia	APAC	Australian Centre for Robotic Vision	ACADEMIA
+Austria	Austria	Europe	Austria	N/A
+Aylien Ltd.	Ireland	Europe	Aylien Ltd.	INDUSTRY
+BAAI	China	China	BAAI	ACADEMIA
+BAAI RoboBrain Team	China	China	BAAI	ACADEMIA
+Baidu Institute of Deep Learning	China	China	Baidu	INDUSTRY
+Baidu Research	China	China	Baidu	INDUSTRY
+Baidu Research – Silicon Valley AI Lab	USA	North America	Baidu	INDUSTRY
+Baidu Inc.	China	China	Baidu 	INDUSTRY
+Bar Ilan University	Israel	Middle East	Bar Ilan University	ACADEMIA
+Beihang University	China	China	Beihang University	ACADEMIA
+Beijing	China	China	Beijing	ACADEMIA
+Beijing Academy of Artificial Intelligence	China	China	Beijing Academy of Artificial Intelligence	ACADEMIA
+Beijing Academy of Artificial Intelligence BAAI	China	China	Beijing Academy of Artificial Intelligence	ACADEMIA
+Beijing Institute of Technology	China	China	Beijing Institute of Technology	ACADEMIA
+Beijing University of Posts	China	China	Beijing University of Posts	ACADEMIA
+Ben-Gurion University	Israel	Middle East	Ben-Gurion University	ACADEMIA
+Berkeley	USA	North America	University of California, Berkeley	ACADEMIA
+BIGAI	China	China	BIGAI	ACADEMIA
+BigCode community	n/a	n/a	BigCode community	N/A
+BigScience	France	Europe	BigScience	ACADEMIA
+BigScience Workshop	France	Europe	BigScience	ACADEMIA
+Bloomberg	USA	North America	Bloomberg	INDUSTRY
+Bosch Center for AI	Germany	Europe	Bosch	INDUSTRY
+Boston	USA	North America	Boston	N/A
+Brown University	USA	North America	Brown University	ACADEMIA
+Business Division	n/a	n/a	Business Division	INDUSTRY
+ByteDance	China	China	ByteDance	INDUSTRY
+ByteDance Research	China	China	ByteDance	INDUSTRY
+California Institute of Technology	USA	North America	California Institute of Technology	ACADEMIA
+Capital One	USA	North America	Capital One	INDUSTRY
+Carnegie Mellon University	USA	North America	Carnegie Mellon University	ACADEMIA
+Robotics Institute	USA	North America	Carnegie Mellon University	ACADEMIA
+CAS	China	China	CAS	ACADEMIA
+CBMM	USA	North America	CBMM	ACADEMIA
+Center for Cognitive Modeling	Germany	Europe	Center for Cognitive Modeling	ACADEMIA
+CentraleSupélec	France	Europe	CentraleSupélec	ACADEMIA
+Cerebras Systems	USA	North America	Cerebras Systems	INDUSTRY
+and Cerebras Systems	USA	North America	Cerebras Systems	INDUSTRY
+and Cerebras Systems.	USA	North America	Cerebras Systems	INDUSTRY
+CFCS	Denmark	Europe	CFCS	ACADEMIA
+Chapel Hill	USA	North America	Chapel Hill	ACADEMIA
+Charles University	Czech Republic	Europe	Charles University	ACADEMIA
+China	China	China	China	N/A
+CAS Key Laboratory of Behavioral Science	China	China	Chinese Academy of Sciences	ACADEMIA
+Chinese Academy of Sciences	China	China	Chinese Academy of Sciences	ACADEMIA
+Institute of Automation Chinese Academy of Sciences	China	China	Chinese Academy of Sciences	ACADEMIA
+Key Laboratory of AI Safety of CAS	China	China	Chinese Academy of Sciences	ACADEMIA
+Shenzhen Institute of Advanced Technology	China	China	Chinese Academy of Sciences	ACADEMIA
+Shenzhen Institutes of Advanced Technology	China	China	Chinese Academy of Sciences	ACADEMIA
+University of Chinese Academy of Sciences	China	China	Chinese Academy of Sciences	ACADEMIA
+Chinese Academy of Sciences CAS	China	China	Chinese Academy of Sciences	ACADEMIA
+CIFAR	Canada	North America	CIFAR	ACADEMIA
+CIFAR AI Research Chair	Canada	North America	CIFAR	ACADEMIA
+CMU	USA	North America	CMU	ACADEMIA
+CNRS	France	Europe	CNRS	ACADEMIA
+Cohere For AI	Canada	North America	Cohere	INDUSTRY
+Cohere For AI Community	n/a	n/a	Cohere	INDUSTRY
+Columbia University	USA	North America	Columbia University	ACADEMIA
+Computational Sciences	n/a	n/a	Computational Sciences	ACADEMIA
+Computer Science	n/a	n/a	Computer Science	ACADEMIA
+Computer Science Department	n/a	n/a	Computer Science Department	ACADEMIA
+Computer Sciences Department	USA	North America	Computer Sciences Department	ACADEMIA
+Computer Shogi Association CSA	Japan	APAC	Computer Shogi Association CSA	ACADEMIA
+Concordia University	Canada	North America	Concordia University	ACADEMIA
+Continuum Robotics Laboratory	USA	North America	Continuum Robotics Laboratory	ACADEMIA
+Cornell University	USA	North America	Cornell University	ACADEMIA
+Covariant	USA	North America	Covariant	INDUSTRY
+CUHK	Hong Kong	APAC	CUHK	ACADEMIA
+CUHK-MMLAB	China	China	CUHK	ACADEMIA
+Czech Technical University	Czech Republic	Europe	Czech Technical University	ACADEMIA
+Czechia	Czechia	Europe	Czechia	N/A
+Dalle Molle Institute for Artificial Intelligence	Switzerland	Europe	Dalle Molle Institute for Artificial Intelligence	ACADEMIA
+DARPA	USA	North America	DARPA	ACADEMIA
+MosaicML	USA	North America	Databricks	INDUSTRY
+Deep Learning	n/a	n/a	Deep Learning	ACADEMIA
+DeepSeek-AI	China	China	DeepSeek-AI	INDUSTRY
+deepset	Germany	Europe	deepset	INDUSTRY
+Department of Automation	China	China	Department of Automation	ACADEMIA
+Department of ECE	USA	North America	Department of ECE	ACADEMIA
+Department of Immunology	USA	North America	Department of Immunology	ACADEMIA
+Department of Informatics	Germany	Europe	Department of Informatics	ACADEMIA
+Department of Mathematical	n/a	n/a	Department of Mathematical	ACADEMIA
+Dept. of Computer Science	n/a	n/a	Dept. of Computer Science	ACADEMIA
+Digital Brain Laboratory	USA	North America	Digital Brain Laboratory	ACADEMIA
+Digital Economy	n/a	n/a	Digital Economy	ACADEMIA
+DisneyResearch|Studios	Switzerland	Europe	Disney	INDUSTRY
+Distributed	n/a	n/a	Distributed	N/A
+Dublin	Ireland	Europe	Dublin	N/A
+Duke University	USA	North America	Duke University	ACADEMIA
+East China Normal University	China	China	East China Normal University	ACADEMIA
+École des Ponts	France	Europe	Ecole des Ponts ParisTech	ACADEMIA
+Ecole des Ponts ParisTech	France	Europe	Ecole des Ponts ParisTech	ACADEMIA
+École des Ponts ParisTech	France	Europe	École des Ponts ParisTech	ACADEMIA
+ECU	Australia	APAC	ECU	ACADEMIA
+Eindhoven University of Technology	Netherlands	Europe	Eindhoven University of Technology	ACADEMIA
+EleutherAI	USA	North America	EleutherAI	ACADEMIA
+ELLIS Unit Linz	Austria	Europe	ELLIS Unit Linz	ACADEMIA
+Engineering	n/a	n/a	Engineering	ACADEMIA
+EPFL	Switzerland	Europe	EPFL	ACADEMIA
+EquiLibre Technologies	n/a	n/a	EquiLibre Technologies	INDUSTRY
+ETH Zürich	Switzerland	Europe	ETH Zürich	ACADEMIA
+Faculty of IT	Australia	APAC	Faculty of IT	ACADEMIA
+fast.ai	USA	North America	fast.ai	ACADEMIA
+Ferdowsi University of Mashhad	Iran	Middle East	Ferdowsi University of Mashhad	ACADEMIA
+Fondazione Bruno Kessler FBK	Italy	Europe	Fondazione Bruno Kessler FBK	ACADEMIA
+FORTH	Greece	Europe	FORTH	ACADEMIA
+Foundation Model Research Center	USA	North America	Foundation Model Research Center	INDUSTRY
+France	France	Europe	France	N/A
+Fudan University	China	China	Fudan University	ACADEMIA
+FZI Research Center for Information Technology	Germany	Europe	FZI Research Center for Information Technology	ACADEMIA
+Galbot	n/a	n/a	Galbot	N/A
+Georgia Institute of Technology	USA	North America	Georgia Institute of Technology	ACADEMIA
+Georgia Tech Research Institute	USA	North America	Georgia Institute of Technology	ACADEMIA
+German Research Center for AI	Germany	Europe	German Research Center for AI	ACADEMIA
+Germany	Germany	Europe	Germany	N/A
+Ghent University	Belgium	Europe	Ghent University	ACADEMIA
+IDLab	Belgium	Europe	Ghent University	ACADEMIA
+Grammarly	USA	North America	Grammarly	INDUSTRY
+Guangdong Laboratory of Artificial Intelligence	China	China	Guangdong Laboratory of Artificial Intelligence	ACADEMIA
+Harbin Institute of Technology	China	China	Harbin Institute of Technology	ACADEMIA
+Harvard University	USA	North America	Harvard University	ACADEMIA
+Hatanpää	Finland	Europe	Hatanpää	N/A
+HazyResearch	USA	North America	HazyResearch	ACADEMIA
+HEC	France	Europe	HEC	ACADEMIA
+HEC Montréal	Canada	North America	HEC Montréal	ACADEMIA
+Heidelberg Collaboratory for Image Processing	Germany	Europe	Heidelberg Collaboratory for Image Processing	ACADEMIA
+Heidelberg University	Germany	Europe	Heidelberg University	ACADEMIA
+IWR	Germany	Europe	Heidelberg University	ACADEMIA
+HKUST	Hong Kong	APAC	HKUST	ACADEMIA
+Hong Kong University of Science	Hong Kong	APAC	Hong Kong University of Science	ACADEMIA
+Horizon Robotics Inc.	China	China	Horizon Robotics 	INDUSTRY
+Huawei	China	China	Huawei	INDUSTRY
+Huawei Noah’s Ark Lab	China	China	Huawei	INDUSTRY
+Huawei Technologies Noah’s Ark Lab	China	China	Huawei	INDUSTRY
+Huawei Technologies	China	China	Huawei	INDUSTRY
+Huazhong University of Science	China	China	Huazhong University of Science	ACADEMIA
+Hugging Face	USA	North America	Hugging Face	INDUSTRY
+Hugging Face Inc.	USA	North America	Hugging Face 	INDUSTRY
+Boston Dynamics AI Institute	USA	North America	Hyundai Motor Group	INDUSTRY
+IARAI	Austria	Europe	IARAI	ACADEMIA
+Almaden	USA	North America	IBM	INDUSTRY
+IBM	USA	North America	IBM	INDUSTRY
+IBM Research	USA	North America	IBM	INDUSTRY
+IBM T.J. Watson Research Center	USA	North America	IBM	INDUSTRY
+MIT-IBM Watson AI Lab	USA	North America	IBM	ACADEMIA
+IDSIA	Switzerland	Europe	IDSIA	ACADEMIA
+IIIT Hyderabad	India	APAC	IIIT Hyderabad	ACADEMIA
+The Robot Learning Lab at Imperial College London	United Kingdom	Europe	Imperial College London	ACADEMIA
+Improbable AI Lab	USA	North America	Improbable AI Lab	INDUSTRY
+Inception	France	Europe	Inception	INDUSTRY
+India	India	APAC	India	N/A
+INRIA	France	Europe	INRIA	ACADEMIA
+Inria	France	Europe	Inria	ACADEMIA
+Insight Centre	Ireland	Europe	Insight Centre	ACADEMIA
+Inspur Artificial Intelligence Research Institute	China	China	Inspur	INDUSTRY
+Institute for Advanced Research in Artificial Intelligence IARAI	Austria	Europe	Institute for Advanced Research in Artificial Intelligence IARAI	ACADEMIA
+Institute for AI Industry Research	China	China	Institute for AI Industry Research	INDUSTRY
+Institute for Interdisciplinary Information Sciences	China	China	Institute for Interdisciplinary Information Sciences	ACADEMIA
+Institute for Machine Learning	Austria	Europe	Institute for Machine Learning	ACADEMIA
+Institute for Research in Fundamental Sciences IPM	Iran	Middle East	Institute for Research in Fundamental Sciences IPM	ACADEMIA
+Institute of Advanced Research in Artificial Intelligence IARAI	Austria	Europe	Institute of Advanced Research in Artificial Intelligence IARAI	ACADEMIA
+Institute of Automation	China	China	Institute of Automation	ACADEMIA
+Institute of Computer Science	Poland	Europe	Institute of Computer Science	ACADEMIA
+Institute of Computing Technology	China	China	Institute of Computing Technology	ACADEMIA
+Institute of Psychology	Germany	Europe	Institute of Psychology	ACADEMIA
+Institute of Software	China	China	Institute of Software	ACADEMIA
+Intel	USA	North America	Intel	INDUSTRY
+Intel Labs	USA	North America	Intel	INDUSTRY
+International Computer Science Institute	USA	North America	International Computer Science Institute	ACADEMIA
+International Digital Economy Academy	n/a	n/a	International Digital Economy Academy	ACADEMIA
+Intuitive Surgical Inc.	USA	North America	Intuitive Surgical 	INDUSTRY
+Islamic Azad University	Iran	Middle East	Islamic Azad University	ACADEMIA
+Jacobs University	Germany	Europe	Jacobs University	ACADEMIA
+Jacobs University Bremen	Germany	Europe	Jacobs University Bremen	ACADEMIA
+Jamba Team	n/a	n/a	Jamba Team	N/A
+Jane Street Group	USA	North America	Jane Street Group	INDUSTRY
+JD Explore Academy	China	China	JD.com	N/A
+JD.com Inc.	China	China	JD.com 	INDUSTRY
+Johannes Kepler University Linz	Austria	Europe	Johannes Kepler University Linz	ACADEMIA
+LIT AI Lab	Austria	Europe	Johannes Kepler University Linz	ACADEMIA
+JHU	USA	North America	Johns Hopkins University	ACADEMIA
+JHU APL	USA	North America	Johns Hopkins University	ACADEMIA
+Johns Hopkins University	USA	North America	Johns Hopkins University	ACADEMIA
+KAIST	South Korea	APAC	KAIST	ACADEMIA
+KAIST AI	South Korea	APAC	KAIST	ACADEMIA
+Khoury College of Computer Sciences Northeastern University	USA	North America	Khoury College of Computer Sciences Northeastern University	ACADEMIA
+Kimi Team	n/a	n/a	Kimi Team	N/A
+King’s College London	United Kingdom	Europe	King’s College London	ACADEMIA
+Kingsoft AI Lab	China	China	Kingsoft	INDUSTRY
+Korea	Korea	APAC	Korea	N/A
+Korea University	South Korea	APAC	Korea University	ACADEMIA
+ESAT – PSI	Belgium	Europe	KU Leuven	ACADEMIA
+KU Leuven	Belgium	Europe	KU Leuven	ACADEMIA
+Kyoto University	Japan	APAC	Kyoto University	ACADEMIA
+LG AI Research	South Korea	APAC	LG	INDUSTRY
+LIAMA-NLPR	China	China	LIAMA-NLPR	ACADEMIA
+LIGM	France	Europe	LIGM	ACADEMIA
+LIGM Ecole des Ponts ParisTech	France	Europe	LIGM Ecole des Ponts ParisTech	ACADEMIA
+London	United Kingdom	Europe	London	N/A
+LORIA	France	Europe	LORIA	ACADEMIA
+Los Angeles	USA	North America	Los Angeles	N/A
+Ltd.	n/a	n/a	Ltd.	INDUSTRY
+Ludwig Maximilian University of Munich	Germany	Europe	Ludwig Maximilian University of Munich	ACADEMIA
+LUH	Germany	Europe	LUH	ACADEMIA
+Maitrix.org	n/a	n/a	Maitrix.org	N/A
+CSAIL	USA	North America	Massachusetts Institute of Technology	ACADEMIA
+MBZUAI	United Arab Emirates	Middle East	MBZUAI	ACADEMIA
+McGill University	Canada	North America	McGill University	ACADEMIA
+Megvii Inc Face++	China	China	Megvii 	INDUSTRY
+Megvii Technology	China	China	Megvii Technology	INDUSTRY
+FAIR	USA	North America	Meta	ACADEMIA
+FAIR Team	USA	North America	Meta	N/A
+FAIR at Meta	USA	North America	Meta	INDUSTRY
+FAIRSEQ	USA	North America	Meta	ACADEMIA
+Facebook	United States	North America	Meta	INDUSTRY
+Facebook AI	USA	North America	Meta	INDUSTRY
+Facebook AI Research	USA	North America	Meta	INDUSTRY
+Facebook AI Research FAIR	USA	North America	Meta	INDUSTRY
+Meta	USA	North America	Meta	INDUSTRY
+Meta AI	United States	North America	Meta	INDUSTRY
+Meta AI FAIR Team	USA	North America	Meta	INDUSTRY
+Meta AI Research	USA	North America	Meta	INDUSTRY
+Meta FAIR Team	USA	North America	Meta	INDUSTRY
+New York University Meta AI	USA	North America	Meta	ACADEMIA
+The FAIR team of Meta AI	USA	North America	Meta	INDUSTRY
+MSRA	China	China	Microsoft	ACADEMIA
+Microsoft	USA	North America	Microsoft	INDUSTRY
+Microsoft Azure AI	USA	North America	Microsoft	INDUSTRY
+Microsoft Corporation	USA	North America	Microsoft	INDUSTRY
+Microsoft Dynamics 365 AI	USA	North America	Microsoft	INDUSTRY
+Microsoft Maluuba	Canada	North America	Microsoft	INDUSTRY
+Microsoft Research	USA	North America	Microsoft	INDUSTRY
+Microsoft Research Asia	China	China	Microsoft	INDUSTRY
+Microsoft/NVIDIA	USA	North America	Microsoft	INDUSTRY
+Redmond	USA	North America	Microsoft	INDUSTRY
+Midea Group	China	China	Midea Group	INDUSTRY
+Midjourney	USA	North America	Midjourney	INDUSTRY
+Mila	Canada	North America	Mila - Quebec AI Institute	ACADEMIA
+Mila - Quebec AI Institute	Canada	North America	Mila - Quebec AI Institute	ACADEMIA
+Mila - Québec AI Institute	Canada	North America	Mila - Québec AI Institute	ACADEMIA
+MiLAB	Italy	Europe	MiLAB	ACADEMIA
+Ministry of Education	n/a	n/a	Ministry of Education	ACADEMIA
+Mistral AI	France	Europe	Mistral AI	INDUSTRY
+MIT	USA	North America	MIT	ACADEMIA
+MIT BCS	United States	North America	MIT	ACADEMIA
+MIT CSAIL	USA	North America	MIT	ACADEMIA
+MIT Computer Science	United States	North America	MIT	ACADEMIA
+Massachusetts Institute of Technology	USA	North America	MIT	ACADEMIA
+Massachusetts Institute of Technology MIT	USA	North America	MIT	ACADEMIA
+MMLab	China	China	MMLab	ACADEMIA
+Mobvoi AI Lab	China	China	Mobvoi	INDUSTRY
+Mohamed bin Zayed University of Artificial Intelligence	United Arab Emirates	Middle East	Mohamed bin Zayed University of Artificial Intelligence	ACADEMIA
+Mohamed bin Zayed University of Artificial Intelligence MBZUAI	United Arab Emirates	Middle East	Mohamed bin Zayed University of Artificial Intelligence	ACADEMIA
+Momenta	USA	North America	Momenta	INDUSTRY
+Monash University	Australia	APAC	Monash University	ACADEMIA
+Montreal Institute for Learning Algorithms	Canada	North America	Montreal Institute for Learning Algorithms	ACADEMIA
+Morgridge Institute for Research	USA	North America	Morgridge Institute for Research	ACADEMIA
+Moscow Institute of Physics	Russia	Europe	Moscow Institute of Physics	ACADEMIA
+Mozilla Corporation	USA	North America	Mozilla Corporation	INDUSTRY
+Multimedia Laboratory	Switzerland	Europe	Multimedia Laboratory	ACADEMIA
+Munich Center for Machine Learning MCML	Germany	Europe	Munich Center for Machine Learning MCML	ACADEMIA
+Nancy	France	Europe	Nancy	N/A
+Nanjing University	China	China	Nanjing University	ACADEMIA
+Nanjing University of Aeronautics	China	China	Nanjing University of Aeronautics	ACADEMIA
+Nanjing University of Posts	China	China	Nanjing University of Posts	ACADEMIA
+Nanyang Technological University	Singapore	APAC	Nanyang Technological University	ACADEMIA
+S-Lab NTU	Singapore	APAC	Nanyang Technological University	ACADEMIA
+Nara Institute of Science	Japan	APAC	Nara Institute of Science	ACADEMIA
+NASA-JPL	USA	North America	NASA	ACADEMIA
+National Center for AI NCAI	Pakistan	APAC	National Center for AI NCAI	ACADEMIA
+National Institute of Informatics	Japan	APAC	National Institute of Informatics	ACADEMIA
+National Library of Finland	Finland	Europe	National Library of Finland	ACADEMIA
+NTU	Singapore	APAC	National Taiwan University	ACADEMIA
+National Tsing Hua University	Taiwan	APAC	National Tsing Hua University	ACADEMIA
+National University of Defense	China	China	National University of Defense	ACADEMIA
+National University of Defense Technology	China	China	National University of Defense Technology	ACADEMIA
+National University of Singapore	Singapore	APAC	National University of Singapore	ACADEMIA
+Clova AI Research	South Korea	APAC	NAVER	INDUSTRY
+NAVER Cloud	South Korea	APAC	NAVER	INDUSTRY
+NAVER Cloud Summary.AI	South Korea	APAC	NAVER	INDUSTRY
+NAVER Corp	South Korea	APAC	NAVER	INDUSTRY
+Naver Labs Europe	France	Europe	NAVER	INDUSTRY
+NAVER Corp.	South Korea	APAC	NAVER	INDUSTRY
+Courant Institute	USA	North America	New York University	ACADEMIA
+Courant Institute of Mathematical Sciences	USA	North America	New York University	ACADEMIA
+NYU Shanghai	China	China	New York University	ACADEMIA
+New York University	USA	North America	New York University	ACADEMIA
+NIIDT	India	APAC	NIIDT	ACADEMIA
+NiuTrans Research	China	China	NiuTrans Research	ACADEMIA
+NLP Lab	USA	North America	NLP Lab	ACADEMIA
+Noah’s Ark Lab	China	China	Noah’s Ark Lab	ACADEMIA
+Noah’s Ark Laboratory	n/a	n/a	Noah’s Ark Laboratory	N/A
+Northeastern University	USA	North America	Northeastern University	ACADEMIA
+Norway	Norway	Europe	Norway	N/A
+NSF	USA	North America	NSF	ACADEMIA
+NTT Communication Science Laboratories	Japan	APAC	NTT	INDUSTRY
+NUI Galway	Ireland	Europe	NUI Galway	ACADEMIA
+NVIDIA	USA	North America	NVIDIA	INDUSTRY
+NVIDIA Corporation	USA	North America	NVIDIA	INDUSTRY
+NVIDIA Research	USA	North America	NVIDIA	INDUSTRY
+Nvidia	USA	North America	NVIDIA	INDUSTRY
+ONR	USA	North America	ONR	ACADEMIA
+Open X-Embodiment Collaboration	USA	North America	Open X-Embodiment Collaboration	ACADEMIA
+OpenAI	USA	North America	OpenAI	INDUSTRY
+Osaka University	Japan	APAC	Osaka University	ACADEMIA
+others	n/a	n/a	others	N/A
+Parallel Software Lab	n/a	n/a	Parallel Software Lab	ACADEMIA
+Paris	France	Europe	Paris	N/A
+PKU-PsiBot Joint Lab	China	China	Peking University	ACADEMIA
+Peking University	China	China	Peking University	ACADEMIA
+Peng Cheng Laboratory	China	China	Peng Cheng Laboratory	ACADEMIA
+Physical Intelligence	USA	North America	Physical Intelligence	INDUSTRY
+21 institutions	Please provide the research institute.	n/a	Please provide the name of a specific research institution.	N/A
+Politecnico di Torino	Italy	Europe	Politecnico di Torino	ACADEMIA
+Poznan University of Technology	Poland	Europe	Poznan University of Technology	ACADEMIA
+Prague	Czech Republic	Europe	Prague	N/A
+Preferred Networks	Japan	APAC	Preferred Networks	INDUSTRY
+Princeton University	USA	North America	Princeton University	ACADEMIA
+Proteinea	Israel	Middle East	Proteinea	INDUSTRY
+Purdue University	USA	North America	Purdue University	ACADEMIA
+Reggio Emilia	Italy	Europe	Reggio Emilia	ACADEMIA
+Research branch	n/a	n/a	Research branch	ACADEMIA
+RIKEN AIP	Japan	APAC	RIKEN	ACADEMIA
+rinna Co.	Japan	APAC	rinna Co.	INDUSTRY
+Ritsumeikan University	Japan	APAC	Ritsumeikan University	ACADEMIA
+Runway	USA	North America	Runway	INDUSTRY
+Runway ML	USA	North America	Runway ML	INDUSTRY
+RWTH Aachen University	Germany	Europe	RWTH Aachen University	ACADEMIA
+S-Lab	Germany	Europe	S-Lab	ACADEMIA
+MetaMind	USA	North America	Salesforce	INDUSTRY
+MetaMind - A Salesforce Company	USA	North America	Salesforce	INDUSTRY
+MetaMind Inc.	USA	North America	Salesforce	INDUSTRY
+Salesforce AI Research	USA	North America	Salesforce	INDUSTRY
+Salesforce Research	USA	North America	Salesforce	INDUSTRY
+Samsung	South Korea	APAC	Samsung	INDUSTRY
+Samsung Electronics Polska sp. z o.o. - Samsung R&D Institute Poland	Poland	Europe	Samsung	INDUSTRY
+Samsung R&D Institute Russia	Russia	Europe	Samsung	INDUSTRY
+Samsung Research	South Korea	APAC	Samsung	INDUSTRY
+San Diego UCSD	USA	North America	San Diego UCSD	ACADEMIA
+Saudi Data	Saudi Arabia	Middle East	Saudi Data	N/A
+School of AI	n/a	n/a	School of AI	ACADEMIA
+School of Computer Science	USA	North America	School of Computer Science	ACADEMIA
+School of Engineering	USA	North America	School of Engineering	ACADEMIA
+Science	n/a	n/a	Science	ACADEMIA
+AI Authority SDAIA	Saudi Arabia	Middle East	SDAIA	INDUSTRY
+CUHK-SenseTime Joint Lab	China	China	SenseTime	N/A
+SIAT-SenseTime Joint Lab	China	China	SenseTime	INDUSTRY
+SenseTime Research	China	China	SenseTime	INDUSTRY
+SenseTime Group Limited	China	China	SenseTime	INDUSTRY
+Sensifai	Iran	Middle East	Sensifai	INDUSTRY
+Seoul	South Korea	APAC	Seoul	N/A
+Seoul National University	South Korea	APAC	Seoul National University	ACADEMIA
+ServiceNow Research	USA	North America	ServiceNow	INDUSTRY
+Shandong University	China	China	Shandong University	ACADEMIA
+Shanghai AI Lab	China	China	Shanghai AI Lab	ACADEMIA
+Shanghai AI Laboratory	China	China	Shanghai AI Lab	ACADEMIA
+Shanghai Artificial Intelligence Laboratory	China	China	Shanghai AI Lab	ACADEMIA
+Shanghai Frontiers Science Center of Artificial Intelligence	China	China	Shanghai Frontiers Science Center of Artificial Intelligence	ACADEMIA
+Shanghai Jiao Tong University	China	China	Shanghai Jiao Tong University	ACADEMIA
+Shanghai Jiaotong University	China	China	Shanghai Jiao Tong University	ACADEMIA
+Shanghai Qi Zhi	China	China	Shanghai Qi Zhi	ACADEMIA
+Shanghai Qi Zhi Institute	China	China	Shanghai Qi Zhi	ACADEMIA
+Shanghai University	China	China	Shanghai University	ACADEMIA
+ShanghaiTech	China	China	ShanghaiTech University	ACADEMIA
+ShanghaiTech University	China	China	ShanghaiTech University	ACADEMIA
+Shannon.AI	USA	North America	Shannon.AI	INDUSTRY
+Shenyang	China	China	Shenyang	N/A
+Shenzhen	China	China	Shenzhen	ACADEMIA
+Shenzhen University	China	China	Shenzhen University	ACADEMIA
+Shijiazhuang University	China	China	Shijiazhuang University	ACADEMIA
+Singapore	Singapore	APAC	Singapore	N/A
+Smart Systems Institute	Canada	North America	Smart Systems Institute	ACADEMIA
+Sony AI	Japan	APAC	Sony	INDUSTRY
+Soochow University	China	China	Soochow University	ACADEMIA
+Sorbonne Université	France	Europe	Sorbonne Université	ACADEMIA
+Sorbonne University	France	Europe	Sorbonne University	ACADEMIA
+Stability AI	United Kingdom	Europe	Stability AI	INDUSTRY
+Stanford	USA	North America	Stanford	ACADEMIA
+Stanford University	USA	North America	Stanford	ACADEMIA
+State Key Laboratory for Novel Software Technology	China	China	State Key Laboratory for Novel Software Technology	ACADEMIA
+State Key Laboratory of Computer Science	China	China	State Key Laboratory of Computer Science	ACADEMIA
+State Key Laboratory of Multimedia Information Processing	China	China	State Key Laboratory of Multimedia Information Processing	ACADEMIA
+Studio Ousia	Japan	APAC	Studio Ousia	INDUSTRY
+Sun Yat-sen University	China	China	Sun Yat-sen University	ACADEMIA
+SUNY	USA	North America	SUNY	ACADEMIA
+SUPSI	Switzerland	Europe	SUPSI	ACADEMIA
+Team	n/a	n/a	Team	N/A
+Technical University of Darmstadt	Germany	Europe	Technical University of Darmstadt	ACADEMIA
+Technical University of Munich	Germany	Europe	Technical University of Munich	ACADEMIA
+Technical University of Munich TUM	Germany	Europe	Technical University of Munich	ACADEMIA
+Technion - Israel Institute of Technology	Israel	Middle East	Technion - Israel Institute of Technology	ACADEMIA
+Knowledge Engineering Group KEG	Germany	Europe	Technische Universität Darmstadt	ACADEMIA
+Technische Universität Darmstadt	Germany	Europe	Technische Universität Darmstadt	ACADEMIA
+Technology	n/a	n/a	Technology	INDUSTRY
+Technology Innovation Institute	United Arab Emirates	Middle East	Technology Innovation Institute	ACADEMIA
+Technology Innovation Institute TII	United Arab Emirates	Middle East	Technology Innovation Institute	ACADEMIA
+Technology of China	China	China	Technology of China	ACADEMIA
+Tel Aviv University	Israel	Middle East	Tel Aviv University	ACADEMIA
+Tecent	China	China	Tencent	INDUSTRY
+Tencent	China	China	Tencent	INDUSTRY
+Youtu Lab	China	China	Tencent	INDUSTRY
+TensorTour Inc.	USA	North America	TensorTour 	INDUSTRY
+DeepScale	USA	North America	Tesla	INDUSTRY
+Texas A&M University	USA	North America	Texas A&M University	ACADEMIA
+The AI Institute	USA	North America	AI Institute	ACADEMIA
+The Alan Turing Institute	United Kingdom	Europe	Alan Turing Institute	ACADEMIA
+MMLab CUHK	Hong Kong	APAC	Chinese University of Hong Kong	ACADEMIA
+The Chinese University of Hong Kong	Hong Kong	APAC	Chinese University of Hong Kong	ACADEMIA
+Department of Computing Science	Canada	North America	Department of Computing Science is part of the University of Alberta.	ACADEMIA
+The Hebrew University of Jerusalem	Israel	Middle East	Hebrew University of Jerusalem	ACADEMIA
+HKUSTGZ	China	China	Hong Kong University of Science and Technology	ACADEMIA
+The University of Adelaide	Australia	APAC	University of Adelaide	ACADEMIA
+The University of Electro-Communications	Japan	APAC	University of Electro-Communications	ACADEMIA
+The University of Hong Kong	Hong Kong	APAC	University of Hong Kong	ACADEMIA
+The University of Texas at Austin	USA	North America	University of Texas at Austin	ACADEMIA
+THUDM	Germany	Europe	THUDM	ACADEMIA
+Tianjin University	China	China	Tianjin University	ACADEMIA
+Tohoku University	Japan	APAC	Tohoku University	ACADEMIA
+Toshiba Europe Ltd	Japan	APAC	Toshiba Corporation	INDUSTRY
+Toyota Research Institute	USA	North America	Toyota	INDUSTRY
+Toyota Technological Institute at Chicago	USA	North America	Toyota	ACADEMIA
+TTI-Chicago	USA	North America	Toyota	ACADEMIA
+Tsinghua	China	China	Tsinghua	ACADEMIA
+Data Mining at Tsinghua University THUDM	China	China	Tsinghua University	ACADEMIA
+IIIS	China	China	Tsinghua University	ACADEMIA
+IIIS Tsinghua	China	China	Tsinghua University	ACADEMIA
+IIIS Tsinghua University	China	China	Tsinghua University	ACADEMIA
+Tsinghua University	China	China	Tsinghua University	ACADEMIA
+TU Berlin	Germany	Europe	TU Berlin	ACADEMIA
+Tufts University	USA	North America	Tufts University	ACADEMIA
+TurkuNLP	Finland	Europe	TurkuNLP	ACADEMIA
+TurkuNLP Group	Finland	Europe	TurkuNLP Group	ACADEMIA
+DEVCOM ARL	USA	North America	U.S. Army Combat Capabilities Development Command	ACADEMIA
+UAE	United Arab Emirates	Middle East	UAE	N/A
+Uber AI	USA	North America	Uber	INDUSTRY
+UC Berkeley	USA	North America	University of California, Berkeley	ACADEMIA
+UC San Diego	USA	North America	UC San Diego	ACADEMIA
+UCL	United Kingdom	Europe	UCL	ACADEMIA
+UCLA	USA	North America	UCLA	ACADEMIA
+UCSD	USA	North America	UCSD	ACADEMIA
+UK	United Kingdom	Europe	UK	N/A
+UMass	United States	North America	UMass	ACADEMIA
+UNC	USA	North America	UNC	ACADEMIA
+UNC-Chapel Hill	USA	North America	UNC-Chapel Hill	ACADEMIA
+Univ. of California	USA	North America	Univ. of California	ACADEMIA
+Universite de Lorraine	France	Europe	Universite de Lorraine	ACADEMIA
+MILA	Canada	North America	Université de Montréal	ACADEMIA
+Université de Montréal	Canada	North America	Université de Montréal	ACADEMIA
+Université de Sherbrooke	Canada	North America	Université de Sherbrooke	ACADEMIA
+Université du Maine	France	Europe	Université du Maine	ACADEMIA
+Université Paris-Est	France	Europe	Université Paris-Est	ACADEMIA
+Universiteit van Amsterdam	Netherlands	Europe	Universiteit van Amsterdam	ACADEMIA
+University at Buffalo	USA	North America	University at Buffalo	ACADEMIA
+University College London	United Kingdom	Europe	University College London	ACADEMIA
+University of Adelaide	Australia	APAC	University of Adelaide	ACADEMIA
+University of Alberta	Canada	North America	University of Alberta	ACADEMIA
+University of Amsterdam	Netherlands	Europe	University of Amsterdam	ACADEMIA
+University of Bremen	Germany	Europe	University of Bremen	ACADEMIA
+University of California	USA	North America	University of California	ACADEMIA
+University of California Berkeley	USA	North America	University of California, Berkeley	ACADEMIA
+San Diego	USA	North America	University of California San Diego	N/A
+University of California San Diego	USA	North America	University of California San Diego	ACADEMIA
+Berkeley AI Research BAIR Laboratory	USA	North America	University of California, Berkeley	ACADEMIA
+Berkeley Artificial Intelligence Research	USA	North America	University of California, Berkeley	ACADEMIA
+rail-berkeley	USA	North America	University of California, Berkeley	ACADEMIA
+University of Cambridge	United Kingdom	Europe	University of Cambridge	ACADEMIA
+University of Crete	Greece	Europe	University of Crete	ACADEMIA
+University of Edinburgh	United Kingdom	Europe	University of Edinburgh	ACADEMIA
+University of Florida	USA	North America	University of Florida	ACADEMIA
+University of Freiburg	Germany	Europe	University of Freiburg	ACADEMIA
+University of Guelph	Canada	North America	University of Guelph	ACADEMIA
+University of Hamburg	Germany	Europe	University of Hamburg	ACADEMIA
+University of Hong Kong	Hong Kong	APAC	University of Hong Kong	ACADEMIA
+University of Hyderabad	India	APAC	University of Hyderabad	ACADEMIA
+University of Illinois	USA	North America	University of Illinois	ACADEMIA
+University of Illinois at Urbana–Champaign	USA	North America	University of Illinois at Urbana–Champaign	ACADEMIA
+University of Illinois Urbana-Champaign	USA	North America	University of Illinois at Urbana–Champaign	ACADEMIA
+University of Illinois Urbana-Champaign UIUC	USA	North America	University of Illinois at Urbana–Champaign	ACADEMIA
+University of Lugano	Switzerland	Europe	University of Lugano	ACADEMIA
+University of Macau	Macau	APAC	University of Macau	ACADEMIA
+University of Manchester	United Kingdom	Europe	University of Manchester	ACADEMIA
+UMass Lowell	USA	North America	University of Massachusetts	ACADEMIA
+University of Michigan	USA	North America	University of Michigan	ACADEMIA
+University of Minnesota	USA	North America	University of Minnesota	ACADEMIA
+University of Modena	Italy	Europe	University of Modena	ACADEMIA
+University of Montreal	Canada	North America	University of Montreal	ACADEMIA
+University of Neyshabur	Iran	Middle East	University of Neyshabur	ACADEMIA
+University of Oslo	Norway	Europe	University of Oslo	ACADEMIA
+Department of Engineering Science	United Kingdom	Europe	University of Oxford	ACADEMIA
+University of Oxford	United Kingdom	Europe	University of Oxford	ACADEMIA
+Visual Geometry Group	United Kingdom	Europe	University of Oxford	ACADEMIA
+University of Padova	Italy	Europe	University of Padova	ACADEMIA
+University of Pennsylvania	USA	North America	University of Pennsylvania	ACADEMIA
+University of Pittsburgh	USA	North America	University of Pittsburgh	ACADEMIA
+University of Rochester	USA	North America	University of Rochester	ACADEMIA
+University of San Francisco	USA	North America	University of San Francisco	ACADEMIA
+University of Science	n/a	n/a	University of Science	ACADEMIA
+University of South Carolina	USA	North America	University of South Carolina	ACADEMIA
+University of Southern California	USA	North America	University of Southern California	ACADEMIA
+University of Technology Nuremberg	Germany	Europe	University of Technology Nuremberg	ACADEMIA
+University of Technology Sydney	Australia	APAC	University of Technology Sydney	ACADEMIA
+University of Texas at Austin	USA	North America	University of Texas at Austin	ACADEMIA
+University of Texas at San Antonio	USA	North America	University of Texas at San Antonio	ACADEMIA
+University of Toronto	Canada	North America	University of Toronto	ACADEMIA
+University of Turku	Finland	Europe	University of Turku	ACADEMIA
+University of Warwick	United Kingdom	Europe	University of Warwick	ACADEMIA
+Paul G. Allen School of Computer Science	USA	North America	University of Washington	ACADEMIA
+University of Washington	USA	North America	University of Washington	ACADEMIA
+University of Waterloo	Canada	North America	University of Waterloo	ACADEMIA
+University of Wisconsin-Madison	USA	North America	University of Wisconsin–Madison	ACADEMIA
+University of Wisconsin–Madison	USA	North America	University of Wisconsin–Madison	ACADEMIA
+University Paris-Est	France	Europe	University Paris-Est	ACADEMIA
+Univesité de Montréal	Canada	North America	Univesité de Montréal	ACADEMIA
+Urbana-Champaign	USA	North America	Urbana-Champaign	ACADEMIA
+DEVCOM Army Research Lab	USA	North America	US Army	ACADEMIA
+IDSIA / USI-SUPSI	Switzerland	Europe	USI-SUPSI	ACADEMIA
+UT Austin	USA	North America	UT Austin	ACADEMIA
+Technicolor R&I	France	Europe	Vantiva	INDUSTRY
+Vector Institute	Canada	North America	Vector Institute	ACADEMIA
+VERSES AI Research Lab	USA	North America	VERSES AI	INDUSTRY
+Zenseact	Sweden	Europe	Volvo	INDUSTRY
+Waseda University	Japan	APAC	Waseda University	ACADEMIA
+Weihai	China	China	Weihai	ACADEMIA
+West Virginia University	USA	North America	West Virginia University	ACADEMIA
+Westlake University	China	China	Westlake University	ACADEMIA
+Wuhan University	China	China	Wuhan University	ACADEMIA
+Twitter	USA	North America	X Corp.	INDUSTRY
+Yonsei University	South Korea	APAC	Yonsei University	ACADEMIA
+York University	Canada	North America	York University	ACADEMIA
+Zhejiang University	China	China	Zhejiang University	ACADEMIA
+ZHIPU AI	China	China	ZHIPU AI	INDUSTRY
+Zhipu AI	China	China	Zhipu AI	INDUSTRY
+Zipline	USA	North America	Zipline	INDUSTRY
+Zürich	Switzerland	Europe	Zürich	N/A

@@ -1,0 +1,615 @@
+01.AI
+21 institutions
+AI Authority SDAIA
+AI Institute
+AI21 Labs
+AI2Robotics
+AI4Finance-Foundation
+AIM Lab
+AIR
+AIST
+AIX
+AI^2Robotics
+AMD
+ARO
+ASAPP
+ASAPP Inc.
+ASRI
+ATR
+AWS AI
+Aalto University
+Aalto University School of Science
+Abu Dhabi
+Academy for Engineering
+AgiBot
+Alana AI
+Alibaba
+Alibaba Cloud
+Alibaba Group
+Alibaba Rhino fashion production
+Allen Institute for AI
+Allen Institute for Artificial Intelligence
+Almaden
+Amazon
+Amazon AWS
+Amazon Alexa AI
+Amazon Web Services
+Amii
+Ant Group
+Anthropic
+Anthropic AI
+Apple
+Apple AI/ML
+Apple Inc.
+Applied Research
+Artificial Intelligence Lab
+Artificial Intelligence Laboratory
+Astronautics
+Auburn University
+Australia
+Australian Centre for Robotic Vision
+Austria
+Aylien Ltd.
+BAAI
+BAAI RoboBrain Team
+BIGAI
+Baidu Inc.
+Baidu Institute of Deep Learning
+Baidu Research
+Baidu Research – Silicon Valley AI Lab
+Bar Ilan University
+Beihang University
+Beijing
+Beijing Academy of Artificial Intelligence
+Beijing Academy of Artificial Intelligence BAAI
+Beijing Institute of Technology
+Beijing University of Posts
+Ben-Gurion University
+Berkeley
+Berkeley AI Research BAIR Laboratory
+Berkeley Artificial Intelligence Research
+BigCode community
+BigScience
+BigScience Workshop
+Bloomberg
+Bosch Center for AI
+Boston
+Boston Dynamics AI Institute
+Brain Team
+Brown University
+Business Division
+ByteDance
+ByteDance Research
+CAS
+CAS Key Laboratory of Behavioral Science
+CBMM
+CFCS
+CIFAR
+CIFAR AI Research Chair
+CMU
+CNRS
+CSAIL
+CUHK
+CUHK-MMLAB
+CUHK-SenseTime Joint Lab
+CaiNiao Inc.
+California Institute of Technology
+Capital One
+Carnegie Mellon University
+Center for Cognitive Modeling
+CentraleSupélec
+Cerebras Systems
+Chapel Hill
+Charles University
+China
+Chinese Academy of Sciences
+Chinese Academy of Sciences CAS
+Clova AI Research
+Cohere For AI
+Cohere For AI Community
+Columbia University
+Computational Sciences
+Computer Science
+Computer Science Department
+Computer Sciences Department
+Computer Shogi Association CSA
+Concordia University
+Continuum Robotics Laboratory
+Cornell University
+Courant Institute
+Courant Institute of Mathematical Sciences
+Covariant
+Czech Technical University
+Czechia
+DAMO Academy
+DAMO Academy Alibaba Group
+DARPA
+DEVCOM ARL
+DEVCOM Army Research Lab
+Dalle Molle Institute for Artificial Intelligence
+Data Mining at Tsinghua University THUDM
+Deep Learning
+DeepMind
+DeepMind Technologies
+DeepScale
+DeepSeek-AI
+Deepmind
+Department of Automation
+Department of Computing Science
+Department of ECE
+Department of Engineering Science
+Department of Immunology
+Department of Informatics
+Department of Mathematical
+Dept. of Computer Science
+Digital Brain Laboratory
+Digital Economy
+DisneyResearch|Studios
+Distributed
+Dublin
+Duke University
+ECU
+ELLIS Unit Linz
+EPFL
+ESAT – PSI
+ETH Zürich
+East China Normal University
+Ecole des Ponts ParisTech
+Eindhoven University of Technology
+EleutherAI
+Engineering
+EquiLibre Technologies
+Everyday Robots
+FAIR
+FAIR Team
+FAIR at Meta
+FAIRSEQ
+FORTH
+FZI Research Center for Information Technology
+Facebook
+Facebook AI
+Facebook AI Research
+Facebook AI Research FAIR
+Faculty of IT
+Ferdowsi University of Mashhad
+Fondazione Bruno Kessler FBK
+Foundation Model Research Center
+France
+Fudan University
+GOOGLE
+Galbot
+Georgia Institute of Technology
+Georgia Tech Research Institute
+German Research Center for AI
+Germany
+Ghent University
+Google
+Google AI
+Google AI Brain Team
+Google AI Language
+Google Brain
+Google Brain / Google Research
+Google Cloud
+Google Cloud AI
+Google Cloud Platform
+Google DeepMind
+Google Deepmind
+Google Inc
+Google Inc.
+Google Research
+Google TFTC team
+Google implied from authors affiliations
+Grammarly
+Guangdong Laboratory of Artificial Intelligence
+HEC
+HEC Montréal
+HKUST
+HKUSTGZ
+Harbin Institute of Technology
+Harvard University
+Hatanpää
+HazyResearch
+Heidelberg Collaboratory for Image Processing
+Heidelberg University
+Hong Kong University of Science
+Horizon Robotics Inc.
+Huawei
+Huawei Noah’s Ark Lab
+Huawei Technologies
+Huawei Technologies Noah’s Ark Lab
+Huazhong University of Science
+Hugging Face
+Hugging Face Inc.
+IARAI
+IBM
+IBM Research
+IBM T.J. Watson Research Center
+IDLab
+IDSIA
+IDSIA / USI-SUPSI
+IIIS
+IIIS Tsinghua
+IIIS Tsinghua University
+IIIT Hyderabad
+INRIA
+IWR
+Improbable AI Lab
+Inc
+Inc.
+Inception
+India
+Inria
+Insight Centre
+Inspur Artificial Intelligence Research Institute
+Institute for AI Industry Research
+Institute for Advanced Research in Artificial Intelligence IARAI
+Institute for Interdisciplinary Information Sciences
+Institute for Machine Learning
+Institute for Research in Fundamental Sciences IPM
+Institute of Advanced Research in Artificial Intelligence IARAI
+Institute of Automation
+Institute of Automation Chinese Academy of Sciences
+Institute of Computer Science
+Institute of Computing Technology
+Institute of Psychology
+Institute of Software
+Intel
+Intel Labs
+International Computer Science Institute
+International Digital Economy Academy
+Intuitive Surgical Inc.
+Islamic Azad University
+JD Explore Academy
+JD.com Inc.
+JHU
+JHU APL
+Jacobs University
+Jacobs University Bremen
+Jamba Team
+Jane Street Group
+Johannes Kepler University Linz
+Johns Hopkins University
+KAIST
+KAIST AI
+KU Leuven
+Key Laboratory of AI Safety of CAS
+Khoury College of Computer Sciences Northeastern University
+Kimi Team
+Kingsoft AI Lab
+King’s College London
+Knowledge Engineering Group KEG
+Korea
+Korea University
+Kyoto University
+LG AI Research
+LIAMA-NLPR
+LIGM
+LIGM Ecole des Ponts ParisTech
+LIT AI Lab
+LORIA
+LUH
+London
+Los Angeles
+Ltd.
+Ludwig Maximilian University of Munich
+MBZUAI
+MILA
+MIT
+MIT BCS
+MIT CSAIL
+MIT Computer Science
+MIT-IBM Watson AI Lab
+MMLab
+MMLab CUHK
+MSRA
+Maitrix.org
+Massachusetts Institute of Technology
+Massachusetts Institute of Technology MIT
+McGill University
+Megvii Inc Face++
+Megvii Technology
+Meta
+Meta AI
+Meta AI FAIR Team
+Meta AI Research
+Meta FAIR Team
+MetaMind
+MetaMind - A Salesforce Company
+MetaMind Inc.
+MiLAB
+Microsoft
+Microsoft Azure AI
+Microsoft Corporation
+Microsoft Dynamics 365 AI
+Microsoft Maluuba
+Microsoft Research
+Microsoft Research Asia
+Microsoft/NVIDIA
+Midea Group
+Midjourney
+Mila
+Mila - Quebec AI Institute
+Mila - Québec AI Institute
+Ministry of Education
+Mistral AI
+Mobvoi AI Lab
+Mohamed bin Zayed University of Artificial Intelligence
+Mohamed bin Zayed University of Artificial Intelligence MBZUAI
+Momenta
+Monash University
+Montreal Institute for Learning Algorithms
+Morgridge Institute for Research
+MosaicML
+Moscow Institute of Physics
+Mozilla Corporation
+Multimedia Laboratory
+Munich Center for Machine Learning MCML
+NASA-JPL
+NAVER Cloud
+NAVER Cloud Summary.AI
+NAVER Corp
+NAVER Corp.
+NIIDT
+NLP Lab
+NSF
+NTT Communication Science Laboratories
+NTU
+NUI Galway
+NVIDIA
+NVIDIA Corporation
+NVIDIA Research
+NYU Shanghai
+Nancy
+Nanjing University
+Nanjing University of Aeronautics
+Nanjing University of Posts
+Nanyang Technological University
+Nara Institute of Science
+National Center for AI NCAI
+National Institute of Informatics
+National Library of Finland
+National Tsing Hua University
+National University of Defense
+National University of Defense Technology
+National University of Singapore
+Naver Labs Europe
+New York University
+New York University Meta AI
+NiuTrans Research
+Noah’s Ark Lab
+Noah’s Ark Laboratory
+Northeastern University
+Norway
+Nvidia
+ONR
+Open X-Embodiment Collaboration
+OpenAI
+Osaka University
+PKU-PsiBot Joint Lab
+Parallel Software Lab
+Paris
+Paul G. Allen School of Computer Science
+Peking University
+Peng Cheng Laboratory
+Physical Intelligence
+Politecnico di Torino
+Poznan University of Technology
+Prague
+Preferred Networks
+Princeton University
+Proteinea
+Purdue University
+Qwen Team
+RIKEN AIP
+RWTH Aachen University
+Redmond
+Reggio Emilia
+Research branch
+Ritsumeikan University
+Robotics Institute
+Robotics at Google
+Runway
+Runway ML
+S-Lab
+S-Lab NTU
+SIAT-SenseTime Joint Lab
+SUNY
+SUPSI
+Salesforce AI Research
+Salesforce Research
+Samsung
+Samsung Electronics Polska sp. z o.o. - Samsung R&D Institute Poland
+Samsung R&D Institute Russia
+Samsung Research
+San Diego
+San Diego UCSD
+Saudi Data
+School of AI
+School of Computer Science
+School of Engineering
+Science
+SenseTime Group Limited
+SenseTime Research
+Sensifai
+Seoul
+Seoul National University
+ServiceNow Research
+Shandong University
+Shanghai AI Lab
+Shanghai AI Laboratory
+Shanghai Artificial Intelligence Laboratory
+Shanghai Frontiers Science Center of Artificial Intelligence
+Shanghai Jiao Tong University
+Shanghai Jiaotong University
+Shanghai Qi Zhi
+Shanghai Qi Zhi Institute
+Shanghai University
+ShanghaiTech
+ShanghaiTech University
+Shannon.AI
+Shenyang
+Shenzhen
+Shenzhen Institute of Advanced Technology
+Shenzhen Institutes of Advanced Technology
+Shenzhen University
+Shijiazhuang University
+Singapore
+Smart Systems Institute
+Sony AI
+Soochow University
+Sorbonne University
+Sorbonne Université
+Stability AI
+Stanford
+Stanford University
+State Key Laboratory for Novel Software Technology
+State Key Laboratory of Computer Science
+State Key Laboratory of Multimedia Information Processing
+Studio Ousia
+Sun Yat-sen University
+THUDM
+TTI-Chicago
+TU Berlin
+Team
+Tecent
+Technical University of Darmstadt
+Technical University of Munich
+Technical University of Munich TUM
+Technicolor R&I
+Technion - Israel Institute of Technology
+Technische Universität Darmstadt
+Technology
+Technology Innovation Institute
+Technology Innovation Institute TII
+Technology of China
+Tel Aviv University
+Telecommunications
+Tencent
+TensorTour Inc.
+Texas A&M University
+The AI Institute
+The Alan Turing Institute
+The Chinese University of Hong Kong
+The FAIR team of Meta AI
+The Hebrew University of Jerusalem
+The Robot Learning Lab at Imperial College London
+The University of Adelaide
+The University of Electro-Communications
+The University of Hong Kong
+The University of Texas at Austin
+Tianjin University
+Tohoku University
+Toshiba Europe Ltd
+Toyota Research Institute
+Toyota Technological Institute at Chicago
+Tsinghua
+Tsinghua University
+Tufts University
+TurkuNLP
+TurkuNLP Group
+Twitter
+U.S.A.
+UAE
+UC Berkeley
+UC San Diego
+UCL
+UCLA
+UCSD
+UK
+UMass
+UMass Lowell
+UNC
+UNC-Chapel Hill
+UT Austin
+Uber AI
+Univ. of California
+Universite de Lorraine
+Universiteit van Amsterdam
+University College London
+University Paris-Est
+University at Buffalo
+University of Adelaide
+University of Alberta
+University of Amsterdam
+University of Bremen
+University of California
+University of California Berkeley
+University of California San Diego
+University of Cambridge
+University of Chinese Academy of Sciences
+University of Crete
+University of Edinburgh
+University of Florida
+University of Freiburg
+University of Guelph
+University of Hamburg
+University of Hong Kong
+University of Hyderabad
+University of Illinois
+University of Illinois Urbana-Champaign
+University of Illinois Urbana-Champaign UIUC
+University of Illinois at Urbana–Champaign
+University of Lugano
+University of Macau
+University of Manchester
+University of Michigan
+University of Minnesota
+University of Modena
+University of Montreal
+University of Neyshabur
+University of Oslo
+University of Oxford
+University of Padova
+University of Pennsylvania
+University of Pittsburgh
+University of Rochester
+University of San Francisco
+University of Science
+University of South Carolina
+University of Southern California
+University of Technology Nuremberg
+University of Technology Sydney
+University of Texas at Austin
+University of Texas at San Antonio
+University of Toronto
+University of Turku
+University of Warwick
+University of Washington
+University of Waterloo
+University of Wisconsin-Madison
+University of Wisconsin–Madison
+Université Paris-Est
+Université de Montréal
+Université de Sherbrooke
+Université du Maine
+Univesité de Montréal
+Urbana-Champaign
+VERSES AI Research Lab
+Vector Institute
+Visual Geometry Group
+Waseda University
+Waymo LLC
+Weihai
+West Virginia University
+Westlake University
+Wuhan University
+X formerly Google X
+Yonsei University
+York University
+Youtu Lab
+ZHIPU AI
+Zenseact
+Zhejiang University
+Zhipu AI
+Zipline
+Zürich
+and Cerebras Systems
+and Cerebras Systems.
+and others
+deepset
+fast.ai
+others
+rail-berkeley
+rinna Co.
+École des Ponts
+École des Ponts ParisTech

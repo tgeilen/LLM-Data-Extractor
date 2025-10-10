@@ -1,0 +1,51 @@
+# Core dependencies
+requests>=2.31.0
+python-dotenv>=1.0.0
+pathlib>=1.0.1
+arxiv>=2.1.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Database
+psycopg2-binary>=2.9.0
+sqlalchemy>=2.0.0
+
+# LLM and AI (removed OpenAI)
+# openai>=1.0.0  # Removed - no longer supported
+google-generativeai>=0.3.0
+
+# Tokenization (removed OpenAI tiktoken)
+# tiktoken>=0.5.0  # Removed - no longer supported
+transformers>=4.30.0
+
+# OCR and document processing
+pillow>=10.0.0
+fitz>=0.0.1  # PyMuPDF
+
+# Jupyter and notebooks
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Plotting and visualization
+matplotlib>=3.7.0
+plotly>=5.15.0
+
+# HTTP and API clients
+httpx>=0.24.0
+aiohttp>=3.8.0
+
+# Utilities
+tqdm>=4.65.0
+rich>=13.0.0
+click>=8.1.0
+
+# Testing (optional)
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+
+# Development tools (optional)
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.5.0

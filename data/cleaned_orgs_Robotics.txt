@@ -1,0 +1,208 @@
+21 institutions
+AI Institute
+AIM Lab
+AIR
+AI^2Robotics
+ATR
+AWS AI
+Academy for Engineering
+AgiBot
+Alana AI
+Alibaba Group
+Allen Institute for AI
+Amazon
+Apple
+Astronautics
+Auburn University
+BAAI RoboBrain Team
+BIGAI
+Beihang University
+Beijing Academy of Artificial Intelligence
+Beijing Academy of Artificial Intelligence BAAI
+Beijing University of Posts
+Berkeley
+Bosch Center for AI
+Boston Dynamics AI Institute
+ByteDance Research
+CFCS
+CMU
+CUHK
+CaiNiao Inc.
+Carnegie Mellon University
+Center for Cognitive Modeling
+Chapel Hill
+China
+Chinese Academy of Sciences
+Chinese Academy of Sciences CAS
+Columbia University
+Computational Sciences
+Computer Science Department
+Concordia University
+Continuum Robotics Laboratory
+Covariant
+DEVCOM ARL
+DEVCOM Army Research Lab
+DeepMind
+Department of Automation
+Department of Mathematical
+Digital Brain Laboratory
+Digital Economy
+ETH Zürich
+East China Normal University
+Eindhoven University of Technology
+FAIR at Meta
+FORTH
+FZI Research Center for Information Technology
+Faculty of IT
+Ferdowsi University of Mashhad
+Fondazione Bruno Kessler FBK
+Foundation Model Research Center
+Fudan University
+Galbot
+Georgia Institute of Technology
+Georgia Tech Research Institute
+Ghent University
+Google
+Google AI
+Google DeepMind
+Google Deepmind
+Google Research
+Guangdong Laboratory of Artificial Intelligence
+HKUSTGZ
+Harbin Institute of Technology
+Horizon Robotics Inc.
+Huawei Noah’s Ark Lab
+IDLab
+IIIS
+IIIT Hyderabad
+Improbable AI Lab
+Institute for AI Industry Research
+Institute for Interdisciplinary Information Sciences
+Institute of Automation
+Institute of Automation Chinese Academy of Sciences
+Institute of Computer Science
+Institute of Computing Technology
+Intuitive Surgical Inc.
+JHU
+JHU APL
+KAIST
+Key Laboratory of AI Safety of CAS
+Khoury College of Computer Sciences Northeastern University
+King’s College London
+Kyoto University
+LG AI Research
+Los Angeles
+MBZUAI
+MIT
+MIT CSAIL
+Maitrix.org
+Massachusetts Institute of Technology
+Meta
+MiLAB
+Microsoft
+Microsoft Research
+Microsoft Research Asia
+Midea Group
+Mila
+Monash University
+Moscow Institute of Physics
+Munich Center for Machine Learning MCML
+NASA-JPL
+NIIDT
+NVIDIA
+NVIDIA Research
+Nanjing University
+Nanjing University of Aeronautics
+Nanjing University of Posts
+Nanyang Technological University
+National University of Defense
+National University of Defense Technology
+National University of Singapore
+Naver Labs Europe
+Noah’s Ark Laboratory
+Nvidia
+OpenAI
+Osaka University
+PKU-PsiBot Joint Lab
+Peking University
+Physical Intelligence
+Politecnico di Torino
+Poznan University of Technology
+Purdue University
+RWTH Aachen University
+Robotics Institute
+S-Lab
+School of AI
+School of Computer Science
+ServiceNow Research
+Shandong University
+Shanghai AI Laboratory
+Shanghai Artificial Intelligence Laboratory
+Shanghai Jiao Tong University
+Shanghai Qi Zhi Institute
+Shanghai University
+ShanghaiTech University
+Shenzhen University
+Shijiazhuang University
+Smart Systems Institute
+Stanford University
+State Key Laboratory for Novel Software Technology
+State Key Laboratory of Multimedia Information Processing
+Sun Yat-sen University
+Tecent
+Technical University of Darmstadt
+Technical University of Munich
+Technische Universität Darmstadt
+Technology
+Telecommunications
+The AI Institute
+The Chinese University of Hong Kong
+The Robot Learning Lab at Imperial College London
+The University of Hong Kong
+The University of Texas at Austin
+Tianjin University
+Toshiba Europe Ltd
+Toyota Research Institute
+Tsinghua University
+Tufts University
+UC Berkeley
+UC San Diego
+UMass
+UNC
+UNC-Chapel Hill
+University of Adelaide
+University of Bremen
+University of California
+University of Cambridge
+University of Chinese Academy of Sciences
+University of Crete
+University of Florida
+University of Freiburg
+University of Hamburg
+University of Hong Kong
+University of Illinois
+University of Illinois Urbana-Champaign UIUC
+University of Michigan
+University of Montreal
+University of Neyshabur
+University of Oxford
+University of Padova
+University of Pennsylvania
+University of South Carolina
+University of Southern California
+University of Technology Nuremberg
+University of Texas at Austin
+University of Toronto
+University of Washington
+Université de Montréal
+Urbana-Champaign
+VERSES AI Research Lab
+Waymo LLC
+Weihai
+West Virginia University
+Westlake University
+Wuhan University
+Yonsei University
+Youtu Lab
+Zenseact
+Zhejiang University
