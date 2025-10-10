@@ -96,7 +96,7 @@ AZURE_OCR_ENDPOINT=your_azure_endpoint
 # LLM Providers
 DEEPSEEK_API_TOKEN=your_deepseek_token
 GEMINI_API_KEY=your_gemini_key
-# OpenAI support removed
+
 
 # Database
 DATABASE_URL=postgresql://user:pass@localhost/dbname
